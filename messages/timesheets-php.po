@@ -1,0 +1,1430 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-08 18:06+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: archive.php:4
+msgid "archive"
+msgstr ""
+
+#: CSVsubmissionStatus.php:5 employees.php:4 lieuAndHols.php:4
+#: manageInvoice.php:16 parseResponse.php:211 submissionStatus.php:4
+#: timesheetsBulk.php:4 timesheetView.php:30
+#: classes\TimeSheetCredentials.php:56
+msgid "access denied"
+msgstr ""
+
+#: CSVTimeSheetReport.php:58
+msgid "No data"
+msgstr ""
+
+#: employees.php:16
+msgid "employees"
+msgstr ""
+
+#: error.php:7
+msgid "An error has been reported: "
+msgstr ""
+
+#: error.php:13
+msgid "go back"
+msgstr ""
+
+#: error.php:18 nobrowsersupport.php:18
+msgid "ERROR"
+msgstr ""
+
+#: functions.php:22 timesheetEdit.php:143
+msgid "An error has occured, please contact the IT department!"
+msgstr ""
+
+#: functions.php:53 content\report_.php:126
+msgid "this week"
+msgstr ""
+
+#: functions.php:57 content\report_.php:127
+msgid "last week"
+msgstr ""
+
+#: functions.php:61
+msgid "2 weeks ago"
+msgstr ""
+
+#: functions.php:66
+msgid "next week"
+msgstr ""
+
+#: functions.php:71
+msgid "2 weeks from now"
+msgstr ""
+
+#: functions.php:166
+msgid ""
+"You are not set to use this system,<br/> please contact the Administrative "
+"Department"
+msgstr ""
+
+#: functions.php:168 functions.php:175
+msgid "Your login was unsuccessful!"
+msgstr ""
+
+#: header.php:40
+msgid ""
+"Sorry, your session has expired.<br/>For your protection, you need to log in "
+"again"
+msgstr ""
+
+#: lieuAndHols.php:7
+msgid "lieu & hols"
+msgstr ""
+
+#: login.php:21
+msgid "You were successfully logged out. Bye!"
+msgstr ""
+
+#: login.php:52
+msgid "Welcome to <b>Time Recording System</b>. Please login to continue."
+msgstr ""
+
+#: login.php:53 content\login_.php:31
+msgid "login"
+msgstr ""
+
+#: manageInvoice.php:5 manageInvoice.php:13 content\timesheetsBulk_.php:126
+msgid "Invoice code not found"
+msgstr ""
+
+#: manageInvoice.php:35
+msgid "manage invoice code"
+msgstr ""
+
+#: menu.php:7
+msgid "Add new time sheet"
+msgstr ""
+
+#: menu.php:14
+msgid "Subordinate CSV report"
+msgstr ""
+
+#: menu.php:18 menu.php:41
+msgid "Archive"
+msgstr ""
+
+#: menu.php:20
+msgid "Time Sheets"
+msgstr ""
+
+#: menu.php:23
+msgid "Time Calculator"
+msgstr ""
+
+#: menu.php:27
+msgid "Reports"
+msgstr ""
+
+#: menu.php:30
+msgid "Tools"
+msgstr ""
+
+#: menu.php:35
+msgid "Employees"
+msgstr ""
+
+#: menu.php:37
+msgid "Submission Status"
+msgstr ""
+
+#: menu.php:39
+msgid "Lieu & Hols"
+msgstr ""
+
+#: menu.php:43 timesheetsBulk.php:7
+msgid "Bulk time sheets"
+msgstr ""
+
+#: menu.php:46
+msgid "Admin"
+msgstr ""
+
+#: nobrowsersupport.php:4
+msgid ""
+"We are sorry, but you are currently using a non standards-supporting browser!"
+"<br/>Time Recording System has been tested successfully under Firefox, Chrome "
+"and Opera."
+msgstr ""
+
+#: nobrowsersupport.php:5
+msgid "Please download the lastest Firefox  browser from "
+msgstr ""
+
+#: nobrowsersupport.php:11
+msgid "here"
+msgstr ""
+
+#: parseResponse.php:54
+msgid "Error: The invoice code could not be found"
+msgstr ""
+
+#: parseResponse.php:57
+msgid "Invoice code details saved successfuly"
+msgstr ""
+
+#: parseResponse.php:60
+msgid "Warning: Your action updated more than one invoice code"
+msgstr ""
+
+#: parseResponse.php:92
+#, php-format
+msgid "Error: taskcode %s is already assigned to this project"
+msgstr ""
+
+#: parseResponse.php:99 parseResponse.php:136
+msgid "Task code was not added successfuly"
+msgstr ""
+
+#: parseResponse.php:102
+msgid "Task code assigned successfuly"
+msgstr ""
+
+#: parseResponse.php:111
+msgid "Task code updated successfuly"
+msgstr ""
+
+#: parseResponse.php:140
+msgid "Task code added successfuly"
+msgstr ""
+
+#: parseResponse.php:145
+#, php-format
+msgid "Error: taskcode %s was not found in the database"
+msgstr ""
+
+#: parseResponse.php:154
+msgid "You're not allowed in this section"
+msgstr ""
+
+#: parseResponse.php:177
+msgid "Employee not found"
+msgstr ""
+
+#: parseResponse.php:247
+msgid "Please specify the commencing date for the new TOIL adjustment"
+msgstr ""
+
+#: parseResponse.php:254 parseResponse.php:265
+msgid "Invalid date format for toil adjustment commencing date"
+msgstr ""
+
+#: parseResponse.php:273
+msgid ""
+"Please specify the reason you're adjusting the TOIL value for this employee"
+msgstr ""
+
+#: parseResponse.php:278
+msgid ""
+"Please specify the reason you're adjusting the Holidays value for this "
+"employee"
+msgstr ""
+
+#: parseResponse.php:317
+msgid "save successful"
+msgstr ""
+
+#: parseResponse.php:321
+msgid "failed to save"
+msgstr ""
+
+#: parseResponse.php:330
+msgid "delete error"
+msgstr ""
+
+#: parseResponse.php:370
+msgid "Everything is fine!"
+msgstr ""
+
+#: parseResponse.php:413
+msgid "Invalid date value"
+msgstr ""
+
+#: parseResponse.php:467
+msgid "You don't have access to any part of this time sheet!"
+msgstr ""
+
+#: parseResponse.php:572 timesheetEdit.php:51 timesheetView.php:9
+#: timesheetView.php:16
+msgid "Time sheet not found"
+msgstr ""
+
+#: parseResponse.php:577
+msgid "You don't have clearance for this action!"
+msgstr ""
+
+#: parseResponse.php:655
+msgid ""
+"Project closed. \n"
+" You're not allowed to use invoice code "
+msgstr ""
+
+#: parseResponse.php:677
+msgid "task code insert failed"
+msgstr ""
+
+#: parseResponse.php:689
+msgid "task - group insert failed"
+msgstr ""
+
+#: parseResponse.php:755
+msgid "Some entries could not be saved"
+msgstr ""
+
+#: report.php:4
+msgid "report"
+msgstr ""
+
+#: sendReminder.php:36
+msgid "Time sheet reminder"
+msgstr ""
+
+#: sendReminder.php:37
+msgid "Dear "
+msgstr ""
+
+#: sendReminder.php:38
+#, php-format
+msgid ""
+"This is an automated reminder for you to fill in your timesheet. Please "
+"login at %s and submit it as soon as possible.\n"
+"\n"
+msgstr ""
+
+#: sendReminder.php:39
+msgid ""
+"Thank you \n"
+"\n"
+"Admin"
+msgstr ""
+
+#: submissionStatus.php:7
+msgid "submission status"
+msgstr ""
+
+#: timesheetEdit.php:91
+msgid "The start time specified is invalid"
+msgstr ""
+
+#: timesheetEdit.php:97
+msgid "The stop time specified is invalid"
+msgstr ""
+
+#: timesheetEdit.php:103 timesheetEdit.php:111
+msgid "Invalid time span chosen!"
+msgstr ""
+
+#: timesheetEdit.php:119
+msgid "The date you specified is invalid!"
+msgstr ""
+
+#: timesheetEdit.php:126
+msgid "Sorry, we need it to be a Friday"
+msgstr ""
+
+#: timesheetEdit.php:133
+msgid "Sorry, you can not edit that week's time sheet at this time"
+msgstr ""
+
+#: timesheetEdit.php:169
+msgid "This time sheet belongs to "
+msgstr ""
+
+#: timesheetEdit.php:171
+msgid "Click inside the table to select your worked intervals"
+msgstr ""
+
+#: timesheetEdit.php:174
+msgid "Common unfunded invoice codes"
+msgstr ""
+
+#: timesheetEdit.php:176
+msgid "holidays"
+msgstr ""
+
+#: timesheetEdit.php:177
+msgid "<b>BANK</b> holidays"
+msgstr ""
+
+#: timesheetEdit.php:178
+msgid "time off in lieu"
+msgstr ""
+
+#: timesheetEdit.php:179
+msgid "time taken off because of sickness"
+msgstr ""
+
+#: timesheetEdit.php:180
+msgid "Doctor/Hospital appointment - max 2hours"
+msgstr ""
+
+#: timesheetEdit.php:181
+msgid "unpaid time taken off"
+msgstr ""
+
+#: timesheetEdit.php:182
+msgid "training"
+msgstr ""
+
+#: timesheetEdit.php:183
+msgid "induction time"
+msgstr ""
+
+#: timesheetEdit.php:184
+msgid "paternity or maternity leave"
+msgstr ""
+
+#: timesheetEdit.php:185
+msgid "compassionate leave"
+msgstr ""
+
+#: timesheetEdit.php:188 timesheetView.php:58
+msgid "time sheet"
+msgstr ""
+
+#: timesheetList.php:3
+msgid "time sheet list"
+msgstr ""
+
+#: timesheetNew.php:30 content\report_.php:50
+#: content\submissionStatus_.php:128 content\timesheetsBulk_.php:403
+msgid "Sat"
+msgstr ""
+
+#: timesheetNew.php:31 content\report_.php:51
+#: content\submissionStatus_.php:129 content\timesheetsBulk_.php:421
+msgid "Fri"
+msgstr ""
+
+#: timesheetNew.php:63
+msgid "new time sheet"
+msgstr ""
+
+#: timesheetView.php:49
+#, php-format
+msgid "This time sheet belongs to %s."
+msgstr ""
+
+#: timesheetView.php:51
+msgid "This time sheet has been <b>submitted</b>."
+msgstr ""
+
+#: timesheetView.php:53
+msgid "This time sheet has <b>NOT</b> been <b>submitted</b>."
+msgstr ""
+
+#: timeTotaler.php:3
+msgid "time calculator"
+msgstr ""
+
+#: validation.php:35
+msgid ""
+"Invoice code not found. \n"
+" Please choose a valid invoice code from the list."
+msgstr ""
+
+#: validation.php:43
+msgid ""
+"Project closed. \n"
+" You are not allowed to use this invoice code"
+msgstr ""
+
+#: validation.php:48
+msgid ""
+"Invoice code completed. \n"
+" Are you sure you want to use this invoice code?"
+msgstr ""
+
+#: validation.php:71
+msgid ""
+"The N/A task code is not allowed for this invoice code.Please choose another!"
+msgstr ""
+
+#: validation.php:75
+msgid "Empty task code not allowed for this invoice code!"
+msgstr ""
+
+#: validation.php:86
+msgid ""
+"Task code not found. \n"
+" Please choose a valid task code from the list."
+msgstr ""
+
+#: validation.php:91
+msgid ""
+"Your task code has not been found, but you are allowed to add a new one."
+msgstr ""
+
+#: validation.php:111
+#, php-format
+msgid ""
+"The task code you selected is invalid for invoice code '%s'. \n"
+" Please choose a valid task code from the list."
+msgstr ""
+
+#: content\archive_.php:67
+msgid "Display"
+msgstr ""
+
+#: content\archive_.php:69
+msgid "last 3 months"
+msgstr ""
+
+#: content\archive_.php:70
+msgid "this financial year"
+msgstr ""
+
+#: content\archive_.php:71
+msgid "all the time sheets"
+msgstr ""
+
+#: content\archive_.php:74 content\lieuAndHols_.php:107
+#: content\report_.php:166 content\submissionStatus_.php:6
+#: content\timesheetsBulk_.php:485 content\timeTotaler_.php:56
+msgid "Employee"
+msgstr ""
+
+#: content\archive_.php:96
+msgid "You have 90 days to take TOIL after it was accrued."
+msgstr ""
+
+#: content\archive_.php:97
+msgid "These figures <b>are official</b>"
+msgstr ""
+
+#: content\archive_.php:98
+msgid ""
+"If you think they're not accurate, please report it to the Administration "
+"Department"
+msgstr ""
+
+#: content\archive_.php:130 content\archive_.php:163
+msgid "TOIL accrued (hours)"
+msgstr ""
+
+#: content\archive_.php:131 content\archive_.php:164
+msgid "Take by"
+msgstr ""
+
+#: content\archive_.php:147 content\archive_.php:170
+msgid "adjustment"
+msgstr ""
+
+#: content\archive_.php:177
+msgid "Debt"
+msgstr ""
+
+#: content\archive_.php:188
+msgid "TOIL Adjustment"
+msgstr ""
+
+#: content\archive_.php:197
+msgid "Total TOIL"
+msgstr ""
+
+#: content\archive_.php:200 content\archive_.php:240
+msgid "hours"
+msgstr ""
+
+#: content\archive_.php:210
+msgid ""
+"If you think the TOIL figures shown above are erroneous, press the "
+"\"recalculate\" button."
+msgstr ""
+
+#: content\archive_.php:211
+msgid "Please note that the TOIL adjustment will not be altered!"
+msgstr ""
+
+#: content\archive_.php:222
+msgid "Completed!"
+msgstr ""
+
+#: content\archive_.php:236
+msgid "Total Holidays taken during this financial year (including adjustment)"
+msgstr ""
+
+#: content\archive_.php:241
+msgid "days, based on 7.5 work hours a day"
+msgstr ""
+
+#: content\archive_.php:267 content\submissionStatus_.php:170
+#: content\timesheetNew_.php:69 content\timesheetsBulk_.php:361
+msgid "Week"
+msgstr ""
+
+#: content\archive_.php:268 content\report_.php:168
+#: content\submissionStatus_.php:7 content\timesheetsBulk_.php:400
+msgid "Hours"
+msgstr ""
+
+#: content\archive_.php:269 content\submissionStatus_.php:8
+msgid "Lieu OT"
+msgstr ""
+
+#: content\archive_.php:270 content\submissionStatus_.php:9
+msgid "Charged OT"
+msgstr ""
+
+#: content\archive_.php:271 content\submissionStatus_.php:12
+msgid "TOIL"
+msgstr ""
+
+#: content\archive_.php:272
+msgid "Hols"
+msgstr ""
+
+#: content\archive_.php:314 content\report_.php:206
+#: content\timesheetList_.php:135 content\timesheetList_.php:216
+msgid "view"
+msgstr ""
+
+#: content\archive_.php:321
+msgid "TOTALS (hours)"
+msgstr ""
+
+#: content\archive_.php:333 content\submissionStatus_.php:327
+msgid "no time sheets"
+msgstr ""
+
+#: content\employees_.php:7
+msgid "Sort by"
+msgstr ""
+
+#: content\employees_.php:8
+msgid "choose the value to sort by"
+msgstr ""
+
+#: content\employees_.php:9 content\employees_.php:10
+#: content\employees_.php:11
+msgid "last name"
+msgstr ""
+
+#: content\employees_.php:9 content\employees_.php:10
+#: content\employees_.php:12
+msgid "first name"
+msgstr ""
+
+#: content\employees_.php:14
+msgid "choose the sorting order"
+msgstr ""
+
+#: content\employees_.php:15
+msgid "ascending"
+msgstr ""
+
+#: content\employees_.php:16
+msgid "descending"
+msgstr ""
+
+#: content\employees_.php:22
+msgid "Search"
+msgstr ""
+
+#: content\employees_.php:22
+msgid "type a name here to search for an employee"
+msgstr ""
+
+#: content\employees_.php:28 content\lieuAndHols_.php:64
+#: content\submissionStatus_.php:177
+msgid "Cost centre"
+msgstr ""
+
+#: content\employees_.php:47
+msgid "Show unemployed"
+msgstr ""
+
+#: content\employees_.php:47
+msgid "check this to include the unemplyed staff"
+msgstr ""
+
+#: content\employees_.php:51
+msgid "First name"
+msgstr ""
+
+#: content\employees_.php:52
+msgid "Last name"
+msgstr ""
+
+#: content\employees_.php:62
+msgid "click on an employee in the list to see their details"
+msgstr ""
+
+#: content\employees_.php:67
+msgid "First Name"
+msgstr ""
+
+#: content\employees_.php:74
+msgid "Last Name"
+msgstr ""
+
+#: content\employees_.php:80
+msgid "User Name"
+msgstr ""
+
+#: content\employees_.php:86
+msgid "E-mail"
+msgstr ""
+
+#: content\employees_.php:92
+msgid "Line Manager"
+msgstr ""
+
+#: content\employees_.php:98
+msgid "Minimum Hours"
+msgstr ""
+
+#: content\employees_.php:104
+msgid "Employed"
+msgstr ""
+
+#: content\employees_.php:110
+msgid "Variable hours"
+msgstr ""
+
+#: content\employees_.php:116 content\lieuAndHols_.php:110
+msgid "TOIL adjustment"
+msgstr ""
+
+#: content\employees_.php:122
+msgid "TOIL adjustment<br/>commencing date"
+msgstr ""
+
+#: content\employees_.php:129
+msgid "TOIL Adjustment comment"
+msgstr ""
+
+#: content\employees_.php:129
+msgid "required for TOIL adjustment changes"
+msgstr ""
+
+#: content\employees_.php:135
+msgid "HOLS adjustment (hours)"
+msgstr ""
+
+#: content\employees_.php:141
+msgid "HOLS Adjustment comment"
+msgstr ""
+
+#: content\employees_.php:141
+msgid "required for HOLS adjustment changes"
+msgstr ""
+
+#: content\employees_.php:147
+msgid "User Type"
+msgstr ""
+
+#: content\employees_.php:150
+msgid "normal"
+msgstr ""
+
+#: content\employees_.php:151
+msgid "administrator"
+msgstr ""
+
+#: content\employees_.php:156
+msgid "Authorizes Subordinates"
+msgstr ""
+
+#: content\employees_.php:162
+msgid "Authorizes Invoice Codes"
+msgstr ""
+
+#: content\employees_.php:168
+msgid "Enrolled"
+msgstr ""
+
+#: content\employees_.php:180
+msgid "save"
+msgstr ""
+
+#: content\employees_.php:180
+msgid "click to save this employee"
+msgstr ""
+
+#: content\lieuAndHols_.php:45
+msgid "The financial year has changed on the"
+msgstr ""
+
+#: content\lieuAndHols_.php:47
+msgid ""
+"NOTE1: TOIL available is <b>live</b> and contains the toil_adjustment value."
+msgstr ""
+
+#: content\lieuAndHols_.php:48
+msgid ""
+"NOTE2: The expired TOIL is calculated from the begining of the current "
+"financial year."
+msgstr ""
+
+#: content\lieuAndHols_.php:49
+msgid ""
+"NOTE3: The holidays are calculated from the begining of this financial year."
+msgstr ""
+
+#: content\lieuAndHols_.php:50
+#, php-format
+msgid ""
+"NOTE4: The number of days of holidays are calculated by dividing the number "
+"of hours by %s."
+msgstr ""
+
+#: content\lieuAndHols_.php:108
+msgid "TOIL available"
+msgstr ""
+
+#: content\lieuAndHols_.php:109
+msgid "TOIL expired"
+msgstr ""
+
+#: content\lieuAndHols_.php:111
+msgid "Holidays taken (hours)"
+msgstr ""
+
+#: content\lieuAndHols_.php:112
+msgid "Holidays taken (days)"
+msgstr ""
+
+#: content\lieuAndHols_.php:113
+msgid "Holidays adjustment"
+msgstr ""
+
+#: content\login_.php:6
+msgid "Please enter your login details"
+msgstr ""
+
+#: content\login_.php:9
+msgid "Username"
+msgstr ""
+
+#: content\login_.php:16
+msgid "Password"
+msgstr ""
+
+#: content\login_.php:22
+msgid "Language"
+msgstr ""
+
+#: content\login_.php:25
+msgid "English"
+msgstr ""
+
+#: content\login_.php:26
+msgid "French"
+msgstr ""
+
+#: content\manageInvoice_.php:4
+msgid "Edit invoice code details"
+msgstr ""
+
+#: content\manageInvoice_.php:7 content\timesheetsBulk_.php:394
+#: content\timeTotaler_.php:19
+msgid "Invoice code"
+msgstr ""
+
+#: content\manageInvoice_.php:11
+msgid "Project name"
+msgstr ""
+
+#: content\manageInvoice_.php:15
+msgid "Department"
+msgstr ""
+
+#: content\manageInvoice_.php:35
+msgid "Task needed"
+msgstr ""
+
+#: content\manageInvoice_.php:39
+msgid "Requires authorization"
+msgstr ""
+
+#: content\manageInvoice_.php:44
+msgid "Save details"
+msgstr ""
+
+#: content\manageInvoice_.php:52 content\manageInvoice_.php:73
+#: content\report_.php:167 content\timesheetsBulk_.php:397
+#: content\timeTotaler_.php:27
+msgid "Task code"
+msgstr ""
+
+#: content\manageInvoice_.php:57
+msgid "add new"
+msgstr ""
+
+#: content\manageInvoice_.php:58 content\manageInvoice_.php:80
+msgid "cancel"
+msgstr ""
+
+#: content\manageInvoice_.php:62 content\manageInvoice_.php:84
+msgid "Task name"
+msgstr ""
+
+#: content\manageInvoice_.php:69
+msgid "Related task code list"
+msgstr ""
+
+#: content\manageInvoice_.php:77
+msgid "start typing a task code to see a list"
+msgstr ""
+
+#: content\manageInvoice_.php:79 content\timesheetList_.php:45
+msgid "edit"
+msgstr ""
+
+#: content\report_.php:101 content\timeTotaler_.php:16
+msgid "Project"
+msgstr ""
+
+#: content\report_.php:122
+msgid "Period"
+msgstr ""
+
+#: content\report_.php:124
+msgid "today"
+msgstr ""
+
+#: content\report_.php:125
+msgid "yesterday"
+msgstr ""
+
+#: content\report_.php:128
+msgid "ever"
+msgstr ""
+
+#: content\report_.php:140 content\report_.php:141
+msgid "Day report"
+msgstr ""
+
+#: content\report_.php:142 content\report_.php:143
+msgid "Week report"
+msgstr ""
+
+#: content\report_.php:151
+msgid "Please enter invoice code."
+msgstr ""
+
+#: content\report_.php:156
+msgid "Invoice code was not found in the database."
+msgstr ""
+
+#: content\submissionStatus_.php:10
+msgid "Sunday OT"
+msgstr ""
+
+#: content\submissionStatus_.php:11
+msgid "HOLS"
+msgstr ""
+
+#: content\submissionStatus_.php:13
+msgid "SICK"
+msgstr ""
+
+#: content\submissionStatus_.php:14
+msgid "UNPAID"
+msgstr ""
+
+#: content\submissionStatus_.php:15
+msgid "Submission time"
+msgstr ""
+
+#: content\submissionStatus_.php:163
+msgid "Time sheet submission status"
+msgstr ""
+
+#: content\submissionStatus_.php:164
+msgid "download as CSV"
+msgstr ""
+
+#: content\submissionStatus_.php:197
+msgid "Location"
+msgstr ""
+
+#: content\submissionStatus_.php:223
+msgid "no time sheets were submitted yet"
+msgstr ""
+
+#: content\submissionStatus_.php:225
+msgid "Submitted time sheets"
+msgstr ""
+
+#: content\submissionStatus_.php:252
+msgid "Started but due time sheets"
+msgstr ""
+
+#: content\submissionStatus_.php:282
+msgid "Not started due time sheets"
+msgstr ""
+
+#: content\submissionStatus_.php:294
+msgid "remind"
+msgstr ""
+
+#: content\submissionStatus_.php:295
+msgid "create"
+msgstr ""
+
+#: content\submissionStatus_.php:305
+msgid "remind selected"
+msgstr ""
+
+#: content\submissionStatus_.php:312
+msgid "Due time sheets for this week"
+msgstr ""
+
+#: content\submissionStatus_.php:315
+msgid "no due time sheets"
+msgstr ""
+
+#: content\submissionStatus_.php:321
+msgid "Not enrolled people's time sheets"
+msgstr ""
+
+#: content\timesheet_.php:25
+msgid "Normal time declared"
+msgstr ""
+
+#: content\timesheet_.php:25
+msgid "Normal"
+msgstr ""
+
+#: content\timesheet_.php:26 content\timesheet_.php:33
+msgid "Number of charged overtime hours"
+msgstr ""
+
+#: content\timesheet_.php:26
+msgid "Charged"
+msgstr ""
+
+#: content\timesheet_.php:27 content\timesheet_.php:34
+msgid "Number of lieu overtime hours"
+msgstr ""
+
+#: content\timesheet_.php:27
+msgid "Lieu"
+msgstr ""
+
+#: content\timesheet_.php:28 content\timesheet_.php:35
+msgid "Minimum accountable hours"
+msgstr ""
+
+#: content\timesheet_.php:28
+msgid "Min"
+msgstr ""
+
+#: content\timesheet_.php:29 content\timesheet_.php:36
+msgid "Total number of declared hours"
+msgstr ""
+
+#: content\timesheet_.php:29
+msgid "TOTAL"
+msgstr ""
+
+#: content\timesheet_.php:32
+msgid "Number of normal time hours"
+msgstr ""
+
+#: content\timesheet_.php:41
+msgid "Normal time"
+msgstr ""
+
+#: content\timesheet_.php:41
+msgid "Press this button to start selecting normal time"
+msgstr ""
+
+#: content\timesheet_.php:41
+msgid "Lieu Overtime"
+msgstr ""
+
+#: content\timesheet_.php:41
+msgid "Press this button to start selecting lieu overtime"
+msgstr ""
+
+#: content\timesheet_.php:41
+msgid "Charged Overtime"
+msgstr ""
+
+#: content\timesheet_.php:41
+msgid "Press this button to start selecting charged overtime"
+msgstr ""
+
+#: content\timesheet_.php:44
+msgid "Enter Details"
+msgstr ""
+
+#: content\timesheet_.php:44
+msgid "Press this button to enter details about the selected worked time"
+msgstr ""
+
+#: content\timesheet_.php:44
+msgid "Undo"
+msgstr ""
+
+#: content\timesheet_.php:44
+msgid "Press this button to undo your last action"
+msgstr ""
+
+#: content\timesheet_.php:44
+msgid "Save for later"
+msgstr ""
+
+#: content\timesheet_.php:44
+msgid ""
+"Pressing this button will save all the data for future edit. You may "
+"continue entering data after save"
+msgstr ""
+
+#: content\timesheet_.php:44
+msgid "Submit Timesheet"
+msgstr ""
+
+#: content\timesheet_.php:44
+msgid ""
+"Pressing this button will submit all the data to the database. You will not "
+"be able to edit this time sheet after submitting"
+msgstr ""
+
+#: content\timesheet_.php:53
+msgid "invoice code"
+msgstr ""
+
+#: content\timesheet_.php:54
+msgid "project name"
+msgstr ""
+
+#: content\timesheet_.php:55
+msgid "task code"
+msgstr ""
+
+#: content\timesheetList_.php:25
+msgid "Add a new time sheet"
+msgstr ""
+
+#: content\timesheetList_.php:28
+msgid "Edit previous saved time sheets"
+msgstr ""
+
+#: content\timesheetList_.php:35
+msgid "no saved time sheets"
+msgstr ""
+
+#: content\timesheetList_.php:46
+msgid "discard"
+msgstr ""
+
+#: content\timesheetList_.php:64
+msgid "Your managed invoice code list"
+msgstr ""
+
+#: content\timesheetList_.php:81
+msgid "manage"
+msgstr ""
+
+#: content\timesheetList_.php:82
+msgid "reports"
+msgstr ""
+
+#: content\timesheetList_.php:112
+msgid "Time sheets of your subordinates"
+msgstr ""
+
+#: content\timesheetList_.php:142
+msgid "Download report as CSV"
+msgstr ""
+
+#: content\timesheetList_.php:184
+msgid "Authorize time sheets"
+msgstr ""
+
+#: content\timesheetNew_.php:6
+msgid "Please enter these details about your timesheet"
+msgstr ""
+
+#: content\timesheetNew_.php:9
+msgid "Time interval"
+msgstr ""
+
+#: content\timesheetNew_.php:12 content\timesheetNew_.php:13
+#, php-format
+msgid "%s minutes"
+msgstr ""
+
+#: content\timesheetNew_.php:18
+msgid "Usual day start hour"
+msgstr ""
+
+#: content\timesheetNew_.php:39
+msgid "Usual day leave hour"
+msgstr ""
+
+#: content\timesheetNew_.php:63
+msgid "Show weekend days"
+msgstr ""
+
+#: content\timesheetNew_.php:81
+msgid "continue"
+msgstr ""
+
+#: content\timesheetsBulk_.php:110
+msgid "No invoice code"
+msgstr ""
+
+#: content\timesheetsBulk_.php:134
+msgid "This invoice code requires a task code"
+msgstr ""
+
+#: content\timesheetsBulk_.php:149
+msgid ""
+"Task code could not be found or can not be associated with this invoice code"
+msgstr ""
+
+#: content\timesheetsBulk_.php:188
+msgid "The hours figure multiplied by 60 has to be dividable by "
+msgstr ""
+
+#: content\timesheetsBulk_.php:188
+msgid "or"
+msgstr ""
+
+#: content\timesheetsBulk_.php:194
+msgid "Too many projects for one time sheet"
+msgstr ""
+
+#: content\timesheetsBulk_.php:200
+msgid "Over time hours greater than the total"
+msgstr ""
+
+#: content\timesheetsBulk_.php:236
+msgid "This employee could not be found"
+msgstr ""
+
+#: content\timesheetsBulk_.php:241
+msgid "This employee is not employed any more"
+msgstr ""
+
+#: content\timesheetsBulk_.php:252
+#, php-format
+msgid ""
+"This employee has a different value for minimum hours (%s) then the rest (%s)"
+msgstr ""
+
+#: content\timesheetsBulk_.php:258
+msgid "This employee already has a time sheet for the selected week: "
+msgstr ""
+
+#: content\timesheetsBulk_.php:265
+msgid "No employees selected"
+msgstr ""
+
+#: content\timesheetsBulk_.php:271
+#, php-format
+msgid ""
+"The specified number of hours is %s less than the minimum allowed for "
+"employees"
+msgstr ""
+
+#: content\timesheetsBulk_.php:277
+#, php-format
+msgid "%s more hours of lieu over time are required"
+msgstr ""
+
+#: content\timesheetsBulk_.php:281
+#, php-format
+msgid "Too much over time declared: %s"
+msgstr ""
+
+#: content\timesheetsBulk_.php:341 content\timesheetsBulk_.php:344
+msgid "Time sheet"
+msgstr ""
+
+#: content\timesheetsBulk_.php:341
+msgid ""
+"created but not submitted because of some toil issues. Please revise it."
+msgstr ""
+
+#: content\timesheetsBulk_.php:344
+msgid "successfully created"
+msgstr ""
+
+#: content\timesheetsBulk_.php:351
+msgid ""
+"This section allows administrators to add time sheets for many employees at "
+"the same time."
+msgstr ""
+
+#: content\timesheetsBulk_.php:357
+msgid "Choose a week"
+msgstr ""
+
+#: content\timesheetsBulk_.php:373
+msgid "Enter hours for each day"
+msgstr ""
+
+#: content\timesheetsBulk_.php:379
+msgid "Choose the projects and task codes"
+msgstr ""
+
+#: content\timesheetsBulk_.php:381
+msgid ""
+"If you choose to enter only the total hours for each project, they will be "
+"distributed evenly accross days from Monday to Friday."
+msgstr ""
+
+#: content\timesheetsBulk_.php:383
+msgid "The over time amount(OT) is part of the total hours(Hours)."
+msgstr ""
+
+#: content\timesheetsBulk_.php:406
+msgid "Sun"
+msgstr ""
+
+#: content\timesheetsBulk_.php:409
+msgid "Mon"
+msgstr ""
+
+#: content\timesheetsBulk_.php:412
+msgid "Tue"
+msgstr ""
+
+#: content\timesheetsBulk_.php:415
+msgid "Wed"
+msgstr ""
+
+#: content\timesheetsBulk_.php:418
+msgid "Thu"
+msgstr ""
+
+#: content\timesheetsBulk_.php:424
+msgid "OT"
+msgstr ""
+
+#: content\timesheetsBulk_.php:432
+msgid "Add another project"
+msgstr ""
+
+#: content\timesheetsBulk_.php:434
+msgid "Total hours"
+msgstr ""
+
+#: content\timesheetsBulk_.php:480
+msgid "Choose the employees"
+msgstr ""
+
+#: content\timesheetsBulk_.php:493
+msgid "Add another employee"
+msgstr ""
+
+#: content\timesheetsBulk_.php:498
+msgid "Create time sheets"
+msgstr ""
+
+#: content\timeTotaler_.php:8
+msgid ""
+"This section gives a time total spent on a specific project by a specific "
+"employee"
+msgstr ""
+
+#: content\timeTotaler_.php:10
+msgid "This section gives you a time total spent on a specific project"
+msgstr ""
+
+#: content\timeTotaler_.php:21
+msgid "type the invoice code or choose it from the list"
+msgstr ""
+
+#: content\timeTotaler_.php:23
+msgid "check this to see only time spent on a specific invoice code"
+msgstr ""
+
+#: content\timeTotaler_.php:31
+msgid "check this to see only time spent on a specific task code"
+msgstr ""
+
+#: content\timeTotaler_.php:35
+msgid "Date range"
+msgstr ""
+
+#: content\timeTotaler_.php:38
+msgid "Date start"
+msgstr ""
+
+#: content\timeTotaler_.php:45
+msgid "Date end"
+msgstr ""
+
+#: content\timeTotaler_.php:59
+msgid "Show own time"
+msgstr ""
+
+#: content\timeTotaler_.php:62
+msgid "check this to see only time spent by yourself"
+msgstr ""
+
+#: content\timeTotaler_.php:66
+msgid "Employee name"
+msgstr ""
+
+#: content\timeTotaler_.php:71
+msgid "check this to see time spent by a specific employee"
+msgstr ""
+
+#: content\timeTotaler_.php:80
+msgid "hours&nbsp;total"
+msgstr ""
+
+#: content\timeTotaler_.php:83
+msgid "update"
+msgstr ""
+
+#: classes\Template.php:20
+msgid "Time Recording System"
+msgstr ""
+
+#: classes\Template.php:73
+msgid "You are logged in as"
+msgstr ""
+
+#: classes\Template.php:74
+msgid "Logout"
+msgstr ""
+
+#: classes\Template.php:84
+msgid "Copyright (C)"
+msgstr ""
+
+#: classes\Template.php:85
+#, php-format
+msgid "developed in accordance with the %s Open Archaeology philosophy"
+msgstr ""
+
+#: classes\Template.php:86
+#, php-format
+msgid "Under the %s license auspices."
+msgstr ""
+
+#: classes\TimeSheetCredentials.php:63
+msgid "this time sheet has been submitted"
+msgstr ""
+
+#: classes\TimeSheetCredentials.php:73
+msgid "newer submitted time sheet(s) prevent you from editing this time sheet"
+msgstr ""

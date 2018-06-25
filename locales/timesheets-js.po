@@ -1,0 +1,578 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-08 16:10+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: js/ajaxRequestModule.js:18
+msgid "There was a problem retrieving the xml data:"
+msgstr ""
+
+#: js/bulkScript.js:35
+msgid "This will start the batch creation of time sheets. Are you sure?"
+msgstr ""
+
+#: js/bulkScript.js:77
+msgid "Are you sure?"
+msgstr ""
+
+#: js/bulkScript.js:254
+msgid "no invoice code selected"
+msgstr ""
+
+#: js/employeesScripts.js:206
+msgid "Are you sure you want to update this employee's information?"
+msgstr ""
+
+#: js/ErrorDisplay.js:17
+msgid "An error has occured, please contact the IT department!"
+msgstr ""
+
+#: js/manageInvoiceScript.js:153
+msgid "Sorry, we can not add empty name task codes."
+msgstr ""
+
+#: js/manageInvoiceScript.js:156
+msgid "Are you sure you want to add this task code?"
+msgstr ""
+
+#: js/manageInvoiceScript.js:209
+msgid "Are you sure you want to update this task code?"
+msgstr ""
+
+#: js/newTimesheetScripts.js:100
+msgid "Sorry, you can not add time sheets for that week at this time"
+msgstr ""
+
+#: js/submissionScripts.js:140
+msgid "Select at least one recipient"
+msgstr ""
+
+#: js/submissionScripts.js:164 js/submissionScripts.js:167
+msgid "Reminder sent successfully to "
+msgstr ""
+
+#: js/submissionScripts.js:164 js/submissionScripts.js:167
+#: js/submissionScripts.js:171
+msgid " recipient(s)"
+msgstr ""
+
+#: js/submissionScripts.js:167
+msgid " Failed on "
+msgstr ""
+
+#: js/submissionScripts.js:171
+msgid "Reminder failed for all "
+msgstr ""
+
+#: js/submissionScripts.js:175
+msgid "No recipients, please contact IT department!"
+msgstr ""
+
+#: js/TimeSheet.js:69 js/TimeSheet.js:91
+msgid "h"
+msgstr ""
+
+#: js/TimeSheet.js:70 js/TimeSheet.js:92
+msgid "m"
+msgstr ""
+
+#: js/TimeSheet.js:214
+msgid "Problem at: "
+msgstr ""
+
+#: js/timesheetEditScripts.js:9 js/TimeSheetTextEntry.js:1277
+#: js/TimeSheetTextEntry.js:1289
+msgid "Saving..."
+msgstr ""
+
+#: js/timesheetScripts.js:3
+msgid ""
+"Are you sure you want to discard all the data related to this timesheet?"
+msgstr ""
+
+#: js/TimeSheetTableEntry.js:32 js/TimeSheetTableEntry.js:295
+#: js/TimeSheetTableEntry.js:366 js/TimeSheetTableEntry.js:588
+msgid "Saturday"
+msgstr ""
+
+#: js/TimeSheetTableEntry.js:32 js/TimeSheetTableEntry.js:295
+#: js/TimeSheetTableEntry.js:366
+msgid "Sunday"
+msgstr ""
+
+#: js/TimeSheetTableEntry.js:32 js/TimeSheetTableEntry.js:295
+#: js/TimeSheetTableEntry.js:366
+msgid "Monday"
+msgstr ""
+
+#: js/TimeSheetTableEntry.js:32 js/TimeSheetTableEntry.js:295
+#: js/TimeSheetTableEntry.js:366
+msgid "Tuesday"
+msgstr ""
+
+#: js/TimeSheetTableEntry.js:32 js/TimeSheetTableEntry.js:295
+#: js/TimeSheetTableEntry.js:366
+msgid "Wednesday"
+msgstr ""
+
+#: js/TimeSheetTableEntry.js:32 js/TimeSheetTableEntry.js:295
+#: js/TimeSheetTableEntry.js:366
+msgid "Thursday"
+msgstr ""
+
+#: js/TimeSheetTableEntry.js:32 js/TimeSheetTableEntry.js:295
+#: js/TimeSheetTableEntry.js:366
+msgid "Friday"
+msgstr ""
+
+#: js/TimeSheetTableEntry.js:53
+msgid "select all remaining"
+msgstr ""
+
+#: js/TimeSheetTableEntry.js:55
+msgid "press here to select/deselct the entire table"
+msgstr ""
+
+#: js/TimeSheetTableEntry.js:73 js/TimeSheetTableEntry.js:587
+#: js/TimeSheetTableEntry.js:597
+msgid "press here to select/deselect all the cells of this column"
+msgstr ""
+
+#: js/TimeSheetTableEntry.js:89
+msgid "press here to add another row on top of the others"
+msgstr ""
+
+#: js/TimeSheetTableEntry.js:117 js/TimeSheetTableEntry.js:302
+#: js/TimeSheetTableEntry.js:373
+msgid "press here to select/deselect all the cells of this row"
+msgstr ""
+
+#: js/TimeSheetTableEntry.js:120
+msgid "to"
+msgstr ""
+
+#: js/TimeSheetTableEntry.js:151
+msgid "press here to add another row at the bottom of the others"
+msgstr ""
+
+#: js/TimeSheetTableEntry.js:1007
+msgid "deselect"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:35
+msgid "Normal"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:36
+msgid "Normal time declared"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:39
+msgid "Charged"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:40 js/TimeSheetTextEntry.js:82
+msgid "Number of charged overtime hours"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:43
+msgid "Lieu"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:44 js/TimeSheetTextEntry.js:83
+msgid "Number of lieu overtime hours"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:47
+msgid "Min"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:48 js/TimeSheetTextEntry.js:84
+msgid "Minimum accountable hours"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:51
+msgid "TOTAL"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:52 js/TimeSheetTextEntry.js:85
+msgid "Total number of declared hours"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:81
+msgid "Number of normal time hours"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:102
+msgid "Normal time"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:103
+msgid "Press this button to start selecting normal time"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:109
+msgid "Lieu Overtime"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:110
+msgid "Press this button to start selecting lieu overtime"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:115
+msgid "Charged Overtime"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:116
+msgid "Press this button to start selecting charged overtime"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:130
+msgid "Enter Details"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:131
+msgid "Press this button to enter details about the selected worked time"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:137
+msgid "Undo"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:138
+msgid "Press this button to undo your last action"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:144
+msgid "Save for later"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:145
+msgid ""
+"Pressing this button will save all the data for future edit. You may "
+"continue entering data after save"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:151
+msgid "Submit Timesheet"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:152
+msgid ""
+"Pressing this button will submit all the data to the database. You will not "
+"be able to edit this time sheet after submitting"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:218
+msgid "Invoice code"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:221
+msgid "Task code"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:224
+msgid "Submit"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:227 js/TimeSheetTextEntry.js:253
+msgid "Cancel"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:232
+msgid "type here the invoice code"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:240
+msgid "type here the task code"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:247
+msgid "Submit details"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:301 js/TimeSheetTextEntry.js:770
+#: js/TimeSheetTextEntry.js:1112
+msgid "Please enter an invoice code"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:396
+msgid ""
+"This time sheet will be edited by the owner and will need your attention "
+"again later"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:420
+msgid "An error has been reported: "
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:451
+msgid "Authorize"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:476
+msgid "the colour associated in the table with this entry"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:484
+msgid "the number of hours worked for this project"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:492
+msgid "invoice code of this entry"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:507
+msgid "project name for this entry"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:514
+msgid "task code of this entry"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:524 js/TimeSheetTextEntry.js:1131
+msgid "modify"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:531 js/TimeSheetTextEntry.js:1134
+msgid "remove"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:532
+msgid "Press this button to remove this entry"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:542
+msgid "Press to approve this entry"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:549
+msgid "Press to disapprove this entry"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:806
+msgid "Please enter a task code."
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:834
+msgid "This invoice code is complete"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:834
+msgid "Are you sure you want to use it?"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:834
+msgid "Is there a more recent code that is currently in use?"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:868
+msgid "Please enter the tender number!"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:870
+msgid "Please enter a task code!"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:899 js/TimeSheetTextEntry.js:936
+msgid ""
+"The task code you entered has not been found in the database. Are you sure "
+"you want to add it?"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:945
+msgid "Please specify a description for the new task code '"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1064
+msgid "save"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1211
+msgid "Are you sure you want to submit this time sheet?"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1223
+msgid ""
+"Once you submit the timesheet details you can NOT modify them any further.\n"
+"Are you sure you want to continue?"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1228
+msgid ""
+"You didn't declare the minimum hours.\n"
+"Are you sure you want to continue?"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1230
+msgid ""
+"This time sheet doesn't have the minimum hours declared.\n"
+"Are you sure you want to continue?"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1233
+msgid ""
+"You didn't declare the minimum hours yet.\n"
+" You are not allowed to submit this time sheet!"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1245 js/TimeSheetTextEntry.js:1255
+msgid "This time sheet has "
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1245
+msgid ""
+" more overtime hour(s) than it should!\n"
+"Are you sure you want to continue?"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1248
+msgid "ERROR: You declared "
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1248
+msgid " more overtime hour(s) than you worked!"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1255
+msgid ""
+" undeclared hour(s) of overtime!\n"
+"Are you sure you want to continue?"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1257
+msgid "ERROR: You have "
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1257
+msgid " undeclared hour(s) of overtime!"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1258
+msgid "You have "
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1258
+msgid ""
+" undeclared hour(s) of overtime!\n"
+"Once you submit the timesheet details you can NOT modify them any further.\n"
+" Are you sure you want to continue?"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1268
+msgid "Submitting..."
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1398
+msgid ""
+"Saving failed. Please check your internet connection and try again later."
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1417
+msgid ""
+"Saving failed.\n"
+" Please try again later."
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1450
+msgid "Status change successful!"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1463
+msgid "Status change unsuccessful!"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1481
+msgid ""
+"Your entered details have been saved.\n"
+" You can safely logout now"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1489
+msgid ""
+"You need to put at least 3.5 hours to HOL. You're trying to declare only "
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1489 js/TimeSheetTextEntry.js:1497
+msgid " hours"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1497
+msgid ""
+"You need to put at least 3.5 hours to TOIL. You're trying to declare only "
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1501
+msgid "Timesheet details have been received but not saved. Please try again."
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1506
+msgid ""
+"One invoice code was not found.\n"
+" Data could not be saved"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1516
+msgid ""
+"One task code was not found.\n"
+" Your data could not be saved"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1521
+msgid ""
+"There was a database error,\n"
+" please try saving again later"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1526
+msgid ""
+"There has been reported a parsing error,\n"
+" please contact the web developer and report the screen contents"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1531
+msgid ""
+"Status set to\n"
+" "
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1539
+msgid "No response from the database..."
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1548
+msgid "You are trying to take more TOIL than you have available"
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1549
+msgid "You declared "
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1549
+msgid ""
+" hours more TOIL on your time sheet than the total amount you have "
+"available.\n"
+" "
+msgstr ""
+
+#: js/TimeSheetTextEntry.js:1550
+msgid ""
+"Please adjust the amaount of TOIL or talk to the Administration Department."
+msgstr ""
+
+#: js/totalerScript.js:84
+msgid "Please enter an invoice code!"
+msgstr ""

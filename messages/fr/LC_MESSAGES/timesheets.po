@@ -1,0 +1,2227 @@
+# French translation for timesheets
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the timesheets package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: timesheets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-08 16:10+0300\n"
+"PO-Revision-Date: 2010-09-08 15:46+0000\n"
+"Last-Translator: Lucian Pricop <Unknown>\n"
+"Language-Team: French <fr@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2010-09-08 15:48+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#: js/ajaxRequestModule.js:18
+msgid "There was a problem retrieving the xml data:"
+msgstr "Un problème d'extraction des données XML est survenu"
+
+#: js/bulkScript.js:35
+msgid "This will start the batch creation of time sheets. Are you sure?"
+msgstr ""
+"Ceci va générer de nouvelles feuilles de présence. Etes-vous sûr(e) de votre "
+"choix ?"
+
+#: js/bulkScript.js:77
+msgid "Are you sure?"
+msgstr "Etes-vous sûr(e) ?"
+
+#: js/bulkScript.js:254
+msgid "no invoice code selected"
+msgstr "pas de code facture sélectionnée"
+
+#: js/employeesScripts.js:206
+msgid "Are you sure you want to update this employee's information?"
+msgstr ""
+"Etes-vous sûr de vouloir mettre à jour les informations de cet employé?"
+
+#: js/ErrorDisplay.js:17 functions.php:22 timesheetEdit.php:143
+msgid "An error has occured, please contact the IT department!"
+msgstr "Une erreur s'est produite, veuillez contacter le département IT !"
+
+#: js/manageInvoiceScript.js:153
+msgid "Sorry, we can not add empty name task codes."
+msgstr ""
+"Désolé, nous ne pouvons pas accepter de saisie dépourvue de nom de code"
+
+#: js/manageInvoiceScript.js:156
+msgid "Are you sure you want to add this task code?"
+msgstr "Etes-vous sûr de vouloir ajouter ce code tâche?"
+
+#: js/manageInvoiceScript.js:209
+msgid "Are you sure you want to update this task code?"
+msgstr "Êtes-vous sûr de vouloir mettre à jour ce code tâche?"
+
+#: js/newTimesheetScripts.js:100
+msgid "Sorry, you can not add time sheets for that week at this time"
+msgstr ""
+"Désolé, vous ne pouvez pas ajouter actuellement des feuilles de présence "
+"pour cette semaine"
+
+#: js/submissionScripts.js:140
+msgid "Select at least one recipient"
+msgstr "Sélectionnez au moins un destinataire"
+
+#: js/submissionScripts.js:164 js/submissionScripts.js:167
+msgid "Reminder sent successfully to "
+msgstr "Rappel envoyé avec succès à "
+
+#: js/submissionScripts.js:164 js/submissionScripts.js:167
+#: js/submissionScripts.js:171
+msgid " recipient(s)"
+msgstr " destinataires"
+
+#: js/submissionScripts.js:167
+msgid " Failed on "
+msgstr " échoué pour "
+
+#: js/submissionScripts.js:171
+msgid "Reminder failed for all "
+msgstr "Echec du rappel pour tous "
+
+#: js/submissionScripts.js:175
+msgid "No recipients, please contact IT department!"
+msgstr "Aucun destinataire, veuillez contacter département IT !"
+
+#: js/TimeSheet.js:69 js/TimeSheet.js:91
+msgid "h"
+msgstr "h"
+
+#: js/TimeSheet.js:70 js/TimeSheet.js:92
+msgid "m"
+msgstr "m"
+
+#: js/TimeSheet.js:214
+msgid "Problem at: "
+msgstr "problème au niveau de : "
+
+#: js/timesheetEditScripts.js:9 js/TimeSheetTextEntry.js:1277
+#: js/TimeSheetTextEntry.js:1289
+msgid "Saving..."
+msgstr "Enregistrement en cours..."
+
+#: js/timesheetScripts.js:3
+msgid ""
+"Are you sure you want to discard all the data related to this timesheet?"
+msgstr ""
+"Etes-vous sûr de vouloir supprimer toutes les données relatives à cette "
+"feuille de présence?"
+
+#: js/TimeSheetTableEntry.js:32 js/TimeSheetTableEntry.js:295
+#: js/TimeSheetTableEntry.js:366 js/TimeSheetTableEntry.js:588
+msgid "Saturday"
+msgstr "Samedi"
+
+#: js/TimeSheetTableEntry.js:32 js/TimeSheetTableEntry.js:295
+#: js/TimeSheetTableEntry.js:366
+msgid "Sunday"
+msgstr "Dimanche"
+
+#: js/TimeSheetTableEntry.js:32 js/TimeSheetTableEntry.js:295
+#: js/TimeSheetTableEntry.js:366
+msgid "Monday"
+msgstr "Lundi"
+
+#: js/TimeSheetTableEntry.js:32 js/TimeSheetTableEntry.js:295
+#: js/TimeSheetTableEntry.js:366
+msgid "Tuesday"
+msgstr "Mardi"
+
+#: js/TimeSheetTableEntry.js:32 js/TimeSheetTableEntry.js:295
+#: js/TimeSheetTableEntry.js:366
+msgid "Wednesday"
+msgstr "Mercredi"
+
+#: js/TimeSheetTableEntry.js:32 js/TimeSheetTableEntry.js:295
+#: js/TimeSheetTableEntry.js:366
+msgid "Thursday"
+msgstr "Jeudi"
+
+#: js/TimeSheetTableEntry.js:32 js/TimeSheetTableEntry.js:295
+#: js/TimeSheetTableEntry.js:366
+msgid "Friday"
+msgstr "Vendredi"
+
+#: js/TimeSheetTableEntry.js:53
+msgid "select all remaining"
+msgstr "Sélectionnez toutes les données"
+
+#: js/TimeSheetTableEntry.js:55
+msgid "press here to select/deselct the entire table"
+msgstr "appuyez ici pour sélectionner / désélectionner l'ensemble du tableau"
+
+#: js/TimeSheetTableEntry.js:73 js/TimeSheetTableEntry.js:587
+#: js/TimeSheetTableEntry.js:597
+msgid "press here to select/deselect all the cells of this column"
+msgstr ""
+"Cliquez  ici pour sélectionner / désélectionner toutes les cellules de cette "
+"colonne"
+
+#: js/TimeSheetTableEntry.js:89
+msgid "press here to add another row on top of the others"
+msgstr "Cliquez ici pour ajouter une nouvelle ligne au-dessus des autres"
+
+#: js/TimeSheetTableEntry.js:117 js/TimeSheetTableEntry.js:302
+#: js/TimeSheetTableEntry.js:373
+msgid "press here to select/deselect all the cells of this row"
+msgstr ""
+"Cliquez ici pour sélectionner / désélectionner toutes les cellules de cette "
+"rangée"
+
+#: js/TimeSheetTableEntry.js:120
+msgid "to"
+msgstr "à"
+
+#: js/TimeSheetTableEntry.js:151
+msgid "press here to add another row at the bottom of the others"
+msgstr "Cliquez ici pour ajouter une nouvelle ligne sous les autres"
+
+#: js/TimeSheetTableEntry.js:1007
+msgid "deselect"
+msgstr "désélectionner"
+
+#: js/TimeSheetTextEntry.js:35 content\timesheet_.php:25
+msgid "Normal"
+msgstr "Standard"
+
+#: js/TimeSheetTextEntry.js:36 content\timesheet_.php:25
+msgid "Normal time declared"
+msgstr "Heures standard déclarées"
+
+#: js/TimeSheetTextEntry.js:39 content\timesheet_.php:26
+msgid "Charged"
+msgstr "rémunéré"
+
+#: js/TimeSheetTextEntry.js:40 js/TimeSheetTextEntry.js:82
+#: content\timesheet_.php:26 content\timesheet_.php:33
+msgid "Number of charged overtime hours"
+msgstr "Nombre d'heures supplémentaires rémunérées"
+
+#: js/TimeSheetTextEntry.js:43 content\timesheet_.php:27
+msgid "Lieu"
+msgstr "Heure(s) sup."
+
+#: js/TimeSheetTextEntry.js:44 js/TimeSheetTextEntry.js:83
+#: content\timesheet_.php:27 content\timesheet_.php:34
+msgid "Number of lieu overtime hours"
+msgstr "Nombre d'heures supplémentaires plutôt que"
+
+#: js/TimeSheetTextEntry.js:47 content\timesheet_.php:28
+msgid "Min"
+msgstr "Minimum"
+
+#: js/TimeSheetTextEntry.js:48 js/TimeSheetTextEntry.js:84
+#: content\timesheet_.php:28 content\timesheet_.php:35
+msgid "Minimum accountable hours"
+msgstr "Minimum d'heures requis"
+
+#: js/TimeSheetTextEntry.js:51 content\timesheet_.php:29
+msgid "TOTAL"
+msgstr "TOTAL"
+
+#: js/TimeSheetTextEntry.js:52 js/TimeSheetTextEntry.js:85
+#: content\timesheet_.php:29 content\timesheet_.php:36
+msgid "Total number of declared hours"
+msgstr "Nombre total d'heures déclarées"
+
+#: js/TimeSheetTextEntry.js:81 content\timesheet_.php:32
+msgid "Number of normal time hours"
+msgstr "Nombre d'heures standard"
+
+#: js/TimeSheetTextEntry.js:102 content\timesheet_.php:41
+msgid "Normal time"
+msgstr "Heures standard"
+
+#: js/TimeSheetTextEntry.js:103 content\timesheet_.php:41
+msgid "Press this button to start selecting normal time"
+msgstr ""
+"Pour le remplir votre feuille en heures standard, cliquez sur ce bouton"
+
+#: js/TimeSheetTextEntry.js:109 content\timesheet_.php:41
+msgid "Lieu Overtime"
+msgstr "Heure(s) sup."
+
+#: js/TimeSheetTextEntry.js:110 content\timesheet_.php:41
+msgid "Press this button to start selecting lieu overtime"
+msgstr ""
+"Pour le remplir votre feuille en heures supplémentaires, cliquez sur ce "
+"bouton"
+
+#: js/TimeSheetTextEntry.js:115 content\timesheet_.php:41
+msgid "Charged Overtime"
+msgstr "Heures sup. rémunérées"
+
+#: js/TimeSheetTextEntry.js:116 content\timesheet_.php:41
+msgid "Press this button to start selecting charged overtime"
+msgstr ""
+"Pour le remplir votre feuille en heures supplémentaires rémunérées, cliquez "
+"sur ce bouton"
+
+#: js/TimeSheetTextEntry.js:130 content\timesheet_.php:44
+msgid "Enter Details"
+msgstr "Saisie des données"
+
+#: js/TimeSheetTextEntry.js:131 content\timesheet_.php:44
+msgid "Press this button to enter details about the selected worked time"
+msgstr ""
+"Pour saisir vos données relatives aux heures travaillées, cliquez sur ce "
+"bouton"
+
+#: js/TimeSheetTextEntry.js:137 content\timesheet_.php:44
+msgid "Undo"
+msgstr "Annuler"
+
+#: js/TimeSheetTextEntry.js:138 content\timesheet_.php:44
+msgid "Press this button to undo your last action"
+msgstr "Pour annuler votre dernière action, cliquez sur ce bouton"
+
+#: js/TimeSheetTextEntry.js:144 content\timesheet_.php:44
+msgid "Save for later"
+msgstr "Sauvegarder"
+
+#: js/TimeSheetTextEntry.js:145 content\timesheet_.php:44
+msgid ""
+"Pressing this button will save all the data for future edit. You may "
+"continue entering data after save"
+msgstr ""
+"Si vous cliquez sur ce bouton vous sauvegardez toutes vos données et vous "
+"pourrez les modifier ultérieurement. Autrement dit, grâce à cette fonction, "
+"vous pouvez encore remplir votre feuille après une première sauvegarde."
+
+#: js/TimeSheetTextEntry.js:151 content\timesheet_.php:44
+msgid "Submit Timesheet"
+msgstr "Envoi de la feuille de présence"
+
+#: js/TimeSheetTextEntry.js:152 content\timesheet_.php:44
+msgid ""
+"Pressing this button will submit all the data to the database. You will not "
+"be able to edit this time sheet after submitting"
+msgstr ""
+"En appuyant sur ce bouton, votre envoi est définitif et vous ne serez plus "
+"en mesure de modifier votre feuille de présence."
+
+#: js/TimeSheetTextEntry.js:218 content\manageInvoice_.php:34
+#: content\timesheetsBulk_.php:394
+msgid "Invoice code"
+msgstr "Code facture"
+
+#: js/TimeSheetTextEntry.js:221 content\manageInvoice_.php:82
+#: content\manageInvoice_.php:103 content\report_.php:167
+#: content\timesheetsBulk_.php:397
+msgid "Task code"
+msgstr "Code tâche"
+
+#: js/TimeSheetTextEntry.js:224
+msgid "Submit"
+msgstr "Envoyer"
+
+#: js/TimeSheetTextEntry.js:227 js/TimeSheetTextEntry.js:253
+msgid "Cancel"
+msgstr "Annuler"
+
+#: js/TimeSheetTextEntry.js:232
+msgid "type here the invoice code"
+msgstr "Saisissez ici le code facture adéquat"
+
+#: js/TimeSheetTextEntry.js:240
+msgid "type here the task code"
+msgstr "Saisissez ici le code adéquat"
+
+#: js/TimeSheetTextEntry.js:247
+msgid "Submit details"
+msgstr "Envoi des données"
+
+#: js/TimeSheetTextEntry.js:301 js/TimeSheetTextEntry.js:770
+#: js/TimeSheetTextEntry.js:1112
+msgid "Please enter an invoice code"
+msgstr "Veuillez saisir un code facture"
+
+#: js/TimeSheetTextEntry.js:396
+msgid ""
+"This time sheet will be edited by the owner and will need your attention "
+"again later"
+msgstr ""
+"Cette feuille de présence sera éditée par son auteur et nécessitera une "
+"vérification ultérieure."
+
+#: js/TimeSheetTextEntry.js:420 error.php:7
+msgid "An error has been reported: "
+msgstr "Une erreur a été signalée: "
+
+#: js/TimeSheetTextEntry.js:451
+msgid "Authorize"
+msgstr "Autoriser"
+
+#: js/TimeSheetTextEntry.js:476
+msgid "the colour associated in the table with this entry"
+msgstr "Couleur apparaissant dans le tableau et correspondant à cette saisie"
+
+#: js/TimeSheetTextEntry.js:484
+msgid "the number of hours worked for this project"
+msgstr "Nombre d'heures consacrées à ce projet"
+
+#: js/TimeSheetTextEntry.js:492
+msgid "invoice code of this entry"
+msgstr "Code facture relatif à cette saisie"
+
+#: js/TimeSheetTextEntry.js:507
+msgid "project name for this entry"
+msgstr "nom du projet correspondant à cette saisie"
+
+#: js/TimeSheetTextEntry.js:514
+msgid "task code of this entry"
+msgstr "code correspondant à cette entrée"
+
+#: js/TimeSheetTextEntry.js:524 js/TimeSheetTextEntry.js:1131
+msgid "modify"
+msgstr "changer"
+
+#: js/TimeSheetTextEntry.js:531 js/TimeSheetTextEntry.js:1134
+msgid "remove"
+msgstr "supprimer"
+
+#: js/TimeSheetTextEntry.js:532
+msgid "Press this button to remove this entry"
+msgstr "Cliquez sur ce bouton pour supprimer cette entrée"
+
+#: js/TimeSheetTextEntry.js:542
+msgid "Press to approve this entry"
+msgstr "Pour confirmer cette entrée, cliquez sur ce bouton."
+
+#: js/TimeSheetTextEntry.js:549
+msgid "Press to disapprove this entry"
+msgstr "Pour annuler cette saisie, cliquez sur ce bouton."
+
+#: js/TimeSheetTextEntry.js:806
+msgid "Please enter a task code."
+msgstr "Veuillez saisir un code"
+
+#: js/TimeSheetTextEntry.js:834
+msgid "This invoice code is complete"
+msgstr "Le projet correspondant à ce code est achevé"
+
+#: js/TimeSheetTextEntry.js:834
+msgid "Are you sure you want to use it?"
+msgstr "Etes-vous sûr(e) de vouloir l'utiliser ?"
+
+#: js/TimeSheetTextEntry.js:834
+msgid "Is there a more recent code that is currently in use?"
+msgstr "Connaissez-vous un code plus récent concernant ce projet ?"
+
+#: js/TimeSheetTextEntry.js:868
+msgid "Please enter the tender number!"
+msgstr "S'il vous plaît entrez le numéro d'appel d'offres!"
+
+#: js/TimeSheetTextEntry.js:870
+msgid "Please enter a task code!"
+msgstr "Veuillez saisir un code !"
+
+#: js/TimeSheetTextEntry.js:899 js/TimeSheetTextEntry.js:936
+msgid ""
+"The task code you entered has not been found in the database. Are you sure "
+"you want to add it?"
+msgstr ""
+"Le code que vous avez saisi n'existe pas actuellement dans la base de "
+"données. Voulez-vous l'ajouter ?"
+
+#: js/TimeSheetTextEntry.js:945
+msgid "Please specify a description for the new task code '"
+msgstr "Veuillez préciser un code correspondant au travail effectué."
+
+#: js/TimeSheetTextEntry.js:1064 content\employees_.php:188
+msgid "save"
+msgstr "sauvegarder"
+
+#: js/TimeSheetTextEntry.js:1211
+msgid "Are you sure you want to submit this time sheet?"
+msgstr "Etes-vous sûr de vouloir soumettre cette feuille de présence?"
+
+#: js/TimeSheetTextEntry.js:1223
+msgid ""
+"Once you submit the timesheet details you can NOT modify them any further.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"Si vous soumettez cette feuille de présence en l'état,  vous ne pourrez plus "
+"la modifier. Etes-vous sûr(e) de vouloir continuer?"
+
+#: js/TimeSheetTextEntry.js:1228
+msgid ""
+"You didn't declare the minimum hours.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"Vous n'avez pas saisi un nombre minimal d'heures. Etes-vous sûr(e) de "
+"vouloir continuer?"
+
+#: js/TimeSheetTextEntry.js:1230
+msgid ""
+"This time sheet doesn't have the minimum hours declared.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"Le nombre d'heures indiquées sur cette feuille de présence est inférieur au "
+"taux normal. Etes-vous sûr de vouloir continuer?"
+
+#: js/TimeSheetTextEntry.js:1233
+msgid ""
+"You didn't declare the minimum hours yet.\n"
+" You are not allowed to submit this time sheet!"
+msgstr ""
+"A ce jour, vous n'avez pas déclaré un nombre suffisant d'heures. Vous n'êtes "
+"donc pas autorisé à envoyer votre Timesheet (feuille de temps)."
+
+#: js/TimeSheetTextEntry.js:1245 js/TimeSheetTextEntry.js:1255
+msgid "This time sheet has "
+msgstr "Cette feuille de présence a "
+
+#: js/TimeSheetTextEntry.js:1245
+msgid ""
+" more overtime hour(s) than it should!\n"
+"Are you sure you want to continue?"
+msgstr ""
+" Vous avez indiqué plus d'heures supplémentaires que prévu. Etes-vous "
+"réellement sûr(e) de vouloir continuer ?"
+
+#: js/TimeSheetTextEntry.js:1248
+msgid "ERROR: You declared "
+msgstr "ERREUR: Vous avez déclaré "
+
+#: js/TimeSheetTextEntry.js:1248
+msgid " more overtime hour(s) than you worked!"
+msgstr " plus d'heures supplémentaires heure(s) que vous avez travaillé!"
+
+#: js/TimeSheetTextEntry.js:1255
+msgid ""
+" undeclared hour(s) of overtime!\n"
+"Are you sure you want to continue?"
+msgstr ""
+" Heures supplémentaires non déclarées ! Etes-vous sûr(e) de vouloir "
+"continuer ?"
+
+#: js/TimeSheetTextEntry.js:1257
+msgid "ERROR: You have "
+msgstr "ERREUR: Vous avez "
+
+#: js/TimeSheetTextEntry.js:1257
+msgid " undeclared hour(s) of overtime!"
+msgstr " Heures supplémentaires non déclarées !"
+
+#: js/TimeSheetTextEntry.js:1258
+msgid "You have "
+msgstr "Vous avez "
+
+#: js/TimeSheetTextEntry.js:1258
+msgid ""
+" undeclared hour(s) of overtime!\n"
+"Once you submit the timesheet details you can NOT modify them any further.\n"
+" Are you sure you want to continue?"
+msgstr ""
+" Heures supplémentaires non déclarées ! Si vous soumettez votre Timesheet en "
+"l'état, vous ne pourrez plus la modifier. Etes-vous sûr(e) de vouloir "
+"continuer ? On vous aura prévenu(e) !"
+
+#: js/TimeSheetTextEntry.js:1268
+msgid "Submitting..."
+msgstr "Envoi..."
+
+#: js/TimeSheetTextEntry.js:1398
+msgid ""
+"Saving failed. Please check your internet connection and try again later."
+msgstr ""
+"Echec de la sauvegarde !  Veuillez vérifier l'état de votre connexion et "
+"réessayez."
+
+#: js/TimeSheetTextEntry.js:1417
+msgid ""
+"Saving failed.\n"
+" Please try again later."
+msgstr "Echec de la sauvegarde"
+
+#: js/TimeSheetTextEntry.js:1450
+msgid "Status change successful!"
+msgstr "Changement de statut effectué"
+
+#: js/TimeSheetTextEntry.js:1463
+msgid "Status change unsuccessful!"
+msgstr "Echec du changement d'état"
+
+#: js/TimeSheetTextEntry.js:1481
+msgid ""
+"Your entered details have been saved.\n"
+" You can safely logout now"
+msgstr ""
+"Sauvegarde de vos données effectuée. Vous pouvez quitter l'application."
+
+#: js/TimeSheetTextEntry.js:1489
+msgid ""
+"You need to put at least 3.5 hours to HOL. You're trying to declare only "
+msgstr ""
+"Vous devez saisir encore 3, 5 heures en \"congés\". Actuellement, vous ne "
+"déclarez que  : "
+
+#: js/TimeSheetTextEntry.js:1489 js/TimeSheetTextEntry.js:1497
+msgid " hours"
+msgstr " heures"
+
+#: js/TimeSheetTextEntry.js:1497
+msgid ""
+"You need to put at least 3.5 hours to TOIL. You're trying to declare only "
+msgstr ""
+"Vous devez saisir encore 3, 5 heures de TOIL (heures de récup.). "
+"Actuellement, vous ne déclarez que  : "
+
+#: js/TimeSheetTextEntry.js:1501
+msgid "Timesheet details have been received but not saved. Please try again."
+msgstr ""
+"Le contenu de votre planning n'a pas été sauvegardé. Merci de réessayer à "
+"nouveau."
+
+#: js/TimeSheetTextEntry.js:1506
+msgid ""
+"One invoice code was not found.\n"
+" Data could not be saved"
+msgstr ""
+"Un des codes n'est pas répertorié dans la base. Désolé, vos données n'ont pu "
+"être sauvegardées !"
+
+#: js/TimeSheetTextEntry.js:1516
+msgid ""
+"One task code was not found.\n"
+" Your data could not be saved"
+msgstr ""
+"Ce code na pas été trouvé. Désolée, vos données ne peuvent être sauvegardées "
+"!"
+
+#: js/TimeSheetTextEntry.js:1521
+msgid ""
+"There was a database error,\n"
+" please try saving again later"
+msgstr ""
+"La base de données a généré une erreur. Veuillez vous connecter plus tard."
+
+#: js/TimeSheetTextEntry.js:1526
+msgid ""
+"There has been reported a parsing error,\n"
+" please contact the web developer and report the screen contents"
+msgstr ""
+"Erreur d'analyse syntaxique du système ! Veuillez contacter un développeur."
+
+#: js/TimeSheetTextEntry.js:1531
+msgid ""
+"Status set to\n"
+" "
+msgstr ""
+"Statut à :\n"
+" "
+
+#: js/TimeSheetTextEntry.js:1539
+msgid "No response from the database..."
+msgstr "La base de données ne répond pas..."
+
+#: js/TimeSheetTextEntry.js:1548
+msgid "You are trying to take more TOIL than you have available"
+msgstr ""
+"Ah ah ! vous essayez de prendre plus de TOIL (heures de récup) que vous n'en "
+"disposez !"
+
+#: js/TimeSheetTextEntry.js:1549
+msgid "You declared "
+msgstr "Vous avez déclaré "
+
+#: js/TimeSheetTextEntry.js:1549
+msgid ""
+" hours more TOIL on your time sheet than the total amount you have "
+"available.\n"
+" "
+msgstr ""
+" Attention : vous avez noté un nombre d'heures de TOIL supérieur à ce dont "
+"vous disposez actuellement.\n"
+" "
+
+#: js/TimeSheetTextEntry.js:1550
+msgid ""
+"Please adjust the amaount of TOIL or talk to the Administration Department."
+msgstr ""
+"S'il vous plaît ajuster le montant de labeur ou de discussions avec le "
+"ministère de l'Administration."
+
+#: js/totalerScript.js:84
+msgid "Please enter an invoice code!"
+msgstr "Veuillez saisir un code"
+
+#: archive.php:4
+msgid "archive"
+msgstr "Archive"
+
+#: CSVsubmissionStatus.php:5 employees.php:4 lieuAndHols.php:4
+#: manageInvoice.php:16 parseResponse.php:211 submissionStatus.php:4
+#: timesheetsBulk.php:4 timesheetView.php:30
+#: classes\TimeSheetCredentials.php:56
+msgid "access denied"
+msgstr "accès refusé"
+
+#: CSVTimeSheetReport.php:58
+msgid "No data"
+msgstr "Pas de données"
+
+#: employees.php:16
+msgid "employees"
+msgstr "employés"
+
+#: error.php:13
+msgid "go back"
+msgstr "revenir"
+
+#: error.php:18 nobrowsersupport.php:18
+msgid "ERROR"
+msgstr "ERREUR"
+
+#: functions.php:53 content\report_.php:126
+msgid "this week"
+msgstr "cette semaine"
+
+#: functions.php:57 content\report_.php:127
+msgid "last week"
+msgstr "semaine dernière"
+
+#: functions.php:61
+msgid "2 weeks ago"
+msgstr "il y a 2 semaines"
+
+#: functions.php:66
+msgid "next week"
+msgstr "semaine prochaine"
+
+#: functions.php:71
+msgid "2 weeks from now"
+msgstr "d'ici 2 semaines"
+
+#: functions.php:166 content\login_.php:43
+msgid ""
+"You are not set to use this system,<br/> please contact the Administrative "
+"Department"
+msgstr ""
+"Vous n'êtes pas configuré pour utiliser ce système, s'il vous plaît "
+"contactez <br/> le Département administratif"
+
+#: functions.php:168 functions.php:175 content\login_.php:40
+msgid "Your login was unsuccessful!"
+msgstr "Votre connexion a échouée !"
+
+#: header.php:40 content\login_.php:50
+msgid ""
+"Sorry, your session has expired.<br/>For your protection, you need to log in "
+"again"
+msgstr ""
+"Désolé, votre session a expiré. <br/> Pour votre protection, vous devez vous "
+"connecter à nouveau"
+
+#: lieuAndHols.php:7
+msgid "lieu & hols"
+msgstr "heures sup. et congés"
+
+#: login.php:21 content\login_.php:37
+msgid "You were successfully logged out. Bye!"
+msgstr "Vous avez été connecté avec succès. Au revoir !"
+
+#: login.php:52
+msgid "Welcome to <b>Time Recording System</b>. Please login to continue."
+msgstr "Bienvenue sur la Time Sheet. Veuillez vous connecter pour continuer"
+
+#: login.php:53 content\login_.php:28
+msgid "login"
+msgstr "Se connecter"
+
+#: manageInvoice.php:5 manageInvoice.php:13 content\timesheetsBulk_.php:126
+msgid "Invoice code not found"
+msgstr "Code facture ne trouve pas"
+
+#: manageInvoice.php:34
+msgid "manage invoice code"
+msgstr "gérer les codes projets"
+
+#: menu.php:7
+msgid "Add new time sheet"
+msgstr "Créer une nouvelle feuilles de présence"
+
+#: menu.php:14
+msgid "Subordinate CSV report"
+msgstr "Subalterne CSV rapport"
+
+#: menu.php:18 menu.php:41
+msgid "Archive"
+msgstr "Archive"
+
+#: menu.php:20
+msgid "Time Sheets"
+msgstr "Feuilles de présence"
+
+#: menu.php:23
+msgid "Time Calculator"
+msgstr "Calculateur de temps"
+
+#: menu.php:27
+msgid "Reports"
+msgstr "Rapports"
+
+#: menu.php:30
+msgid "Tools"
+msgstr "Outils"
+
+#: menu.php:35
+msgid "Employees"
+msgstr "Employés"
+
+#: menu.php:37
+msgid "Submission Status"
+msgstr "État des feuilles de présence"
+
+#: menu.php:39
+msgid "Lieu & Hols"
+msgstr "Heures sup. et congés"
+
+#: menu.php:43 timesheetsBulk.php:7
+msgid "Bulk time sheets"
+msgstr "Feuilles de présence  par lots"
+
+#: menu.php:46
+msgid "Admin"
+msgstr "Administrateur"
+
+#: nobrowsersupport.php:4
+msgid ""
+"We are sorry, but you are currently using a non standards-supporting "
+"browser!<br/>Time Recording System has been tested successfully under "
+"Firefox, Chrome and Opera."
+msgstr ""
+"Désolé, votre navigateur n'est pas compatible! Essayez Firefix, Chrome ou "
+"Opera."
+
+#: nobrowsersupport.php:5
+msgid "Please download the lastest Firefox  browser from "
+msgstr "Merci de télécharger la dernière version du navigateur Firefox "
+
+#: nobrowsersupport.php:11
+msgid "here"
+msgstr "ici"
+
+#: parseResponse.php:54
+msgid "Error: The invoice code could not be found"
+msgstr "Erreur : le code n'est pas correct"
+
+#: parseResponse.php:57
+msgid "Invoice code details saved successfuly"
+msgstr "code sauvegardé"
+
+#: parseResponse.php:60
+msgid "Warning: Your action updated more than one invoice code"
+msgstr "Attention : votre mise à jour a généré plus d'un code"
+
+#: parseResponse.php:92
+#, php-format
+msgid "Error: taskcode %s is already assigned to this project"
+msgstr "Erreur: %s code de tâche est déjà affecté à ce projet"
+
+#: parseResponse.php:99 parseResponse.php:136
+msgid "Task code was not added successfuly"
+msgstr "Code non sauvegardé !"
+
+#: parseResponse.php:102
+msgid "Task code assigned successfuly"
+msgstr "Code correct"
+
+#: parseResponse.php:111
+msgid "Task code updated successfuly"
+msgstr "mise à jour du code correcte"
+
+#: parseResponse.php:140
+msgid "Task code added successfuly"
+msgstr "code sauvegardé"
+
+#: parseResponse.php:145
+#, php-format
+msgid "Error: taskcode %s was not found in the database"
+msgstr "Erreur: %s code de tâche n'a pas été trouvé dans la base de données"
+
+#: parseResponse.php:154
+msgid "You're not allowed in this section"
+msgstr "accès refusé dans cette section"
+
+#: parseResponse.php:177
+msgid "Employee not found"
+msgstr "employé non reconnu"
+
+#: parseResponse.php:247
+msgid "Please specify the commencing date for the new TOIL adjustment"
+msgstr "Merci de préciser la date de début du TOIL ajustement"
+
+#: parseResponse.php:254 parseResponse.php:265
+msgid "Invalid date format for toil adjustment commencing date"
+msgstr "Date de début de TOIL non valide !"
+
+#: parseResponse.php:273
+msgid ""
+"Please specify the reason you're adjusting the TOIL value for this employee"
+msgstr "Merci de justifier la modification relative aux TOIL de cet employé"
+
+#: parseResponse.php:278
+msgid ""
+"Please specify the reason you're adjusting the Holidays value for this "
+"employee"
+msgstr ""
+"Merci de justifier la modification relative aux congés de cet employé"
+
+#: parseResponse.php:317
+msgid "save successful"
+msgstr "sauvegarde accomplie :)"
+
+#: parseResponse.php:321
+msgid "failed to save"
+msgstr "échec de la sauvegarde"
+
+#: parseResponse.php:330
+msgid "delete error"
+msgstr "Erreur de supression"
+
+#: parseResponse.php:370
+msgid "Everything is fine!"
+msgstr "C'est parfait !"
+
+#: parseResponse.php:413
+msgid "Invalid date value"
+msgstr "date invalide"
+
+#: parseResponse.php:467
+msgid "You don't have access to any part of this time sheet!"
+msgstr "accès à cette partie de la time sheet refusé !"
+
+#: parseResponse.php:572 timesheetEdit.php:51 timesheetView.php:9
+#: timesheetView.php:16
+msgid "Time sheet not found"
+msgstr "feuille de présence n'a pas trouvé"
+
+#: parseResponse.php:577
+msgid "You don't have clearance for this action!"
+msgstr "Vous n'avez pas d'autorisation pour cette action !"
+
+#: parseResponse.php:655
+msgid ""
+"Project closed. \n"
+" You're not allowed to use invoice code "
+msgstr ""
+"Projet fermé.\n"
+"Vous n'êtes pas autorisé à utiliser le code facture "
+
+#: parseResponse.php:677
+msgid "task code insert failed"
+msgstr "Echec de la saisie du code"
+
+#: parseResponse.php:689
+msgid "task - group insert failed"
+msgstr "Echec de la saisie de \"tâche - groupe\""
+
+#: parseResponse.php:755
+msgid "Some entries could not be saved"
+msgstr "certaines données n'ont pu être sauvegardées !"
+
+#: report.php:4
+msgid "report"
+msgstr "rapport"
+
+#: sendReminder.php:36
+msgid "Time sheet reminder"
+msgstr "Oh, vous n'avez pas rempli votre Time sheet (c'est très mal !)"
+
+#: sendReminder.php:37
+msgid "Dear "
+msgstr "Cher "
+
+#: sendReminder.php:38
+#, php-format
+msgid ""
+"This is an automated reminder for you to fill in your timesheet. Please "
+"login at %s and submit it as soon as possible.\n"
+"\n"
+msgstr ""
+"Attention: vous n'avez encore pas rempli votre feuille de présence. Merci de "
+"vous\n"
+"connecter sur %s et de nous la transmettre au plus tôt.\n"
+"\n"
+
+#: sendReminder.php:39
+msgid ""
+"Thank you \n"
+"\n"
+"Admin"
+msgstr ""
+"Merci \n"
+"\n"
+"L'administration"
+
+#: submissionStatus.php:7
+msgid "submission status"
+msgstr "état des feuilles de présence"
+
+#: timesheetEdit.php:91 content\timesheetNew_.php:149
+msgid "The start time specified is invalid"
+msgstr "L'heure de début spécifiée n'est pas valide"
+
+#: timesheetEdit.php:97 content\timesheetNew_.php:152
+msgid "The stop time specified is invalid"
+msgstr "Le temps d'arrêt spécifié n'est pas valide"
+
+#: timesheetEdit.php:103 timesheetEdit.php:111 content\timesheetNew_.php:155
+msgid "Invalid time span chosen!"
+msgstr "Période choisie n'est pas valide"
+
+#: timesheetEdit.php:119 content\timesheetNew_.php:140
+msgid "The date you specified is invalid!"
+msgstr "La date que vous avez spécifié n'est pas valide!"
+
+#: timesheetEdit.php:126 content\timesheetNew_.php:143
+msgid "Sorry, we need it to be a Friday"
+msgstr "Désolé, nous en avons besoin pour être un vendredi"
+
+#: timesheetEdit.php:133 content\timesheetNew_.php:146
+msgid "Sorry, you can not edit that week's time sheet at this time"
+msgstr ""
+"Désolé, vous ne pouvez pas modifier la feuille de présence de cette semaine "
+"en ce moment"
+
+#: timesheetEdit.php:169
+msgid "This time sheet belongs to "
+msgstr "Cette feuille de présence appartient à "
+
+#: timesheetEdit.php:171
+msgid "Click inside the table to select your worked intervals"
+msgstr "Cliquez sur le tableau afin de saisir vos heures de travail"
+
+#: timesheetEdit.php:174
+msgid "Common unfunded invoice codes"
+msgstr "Codes non financés"
+
+#: timesheetEdit.php:176
+msgid "holidays"
+msgstr "congés"
+
+#: timesheetEdit.php:177
+msgid "<b>BANK</b> holidays"
+msgstr "Jours fériés"
+
+#: timesheetEdit.php:178
+msgid "time off in lieu"
+msgstr "Heure(s) sup."
+
+#: timesheetEdit.php:179
+msgid "time taken off because of sickness"
+msgstr "heures comptées en maladie"
+
+#: timesheetEdit.php:180
+msgid "Doctor/Hospital appointment - max 2hours"
+msgstr "rendez-vous chez le médecin/à l'hopital - maximum 2 heures"
+
+#: timesheetEdit.php:181
+msgid "unpaid time taken off"
+msgstr "Jours de congés non payés"
+
+#: timesheetEdit.php:182
+msgid "training"
+msgstr "formation"
+
+#: timesheetEdit.php:183
+msgid "induction time"
+msgstr "briefing"
+
+#: timesheetEdit.php:184
+msgid "paternity or maternity leave"
+msgstr "congé  parental"
+
+#: timesheetEdit.php:185
+msgid "compassionate leave"
+msgstr "congé pour raisons familiales"
+
+#: timesheetEdit.php:188 timesheetView.php:58
+msgid "time sheet"
+msgstr "feuille de présence"
+
+#: timesheetList.php:3
+msgid "time sheet list"
+msgstr "feuilles de présence"
+
+#: timesheetNew.php:30 content\timesheetsBulk_.php:403
+msgid "Sat"
+msgstr "Sam"
+
+#: timesheetNew.php:31 content\timesheetsBulk_.php:421
+msgid "Fri"
+msgstr "Ven"
+
+#: timesheetNew.php:63
+msgid "new time sheet"
+msgstr "nouvelle feuille de présence"
+
+#: timesheetView.php:49
+#, php-format
+msgid "This time sheet belongs to %s."
+msgstr "Cette feuille de présence appartient à %s"
+
+#: timesheetView.php:51
+msgid "This time sheet has been <b>submitted</b>."
+msgstr "Envoi de la feuille de présence accompli"
+
+#: timesheetView.php:53
+msgid "This time sheet has <b>NOT</b> been <b>submitted</b>."
+msgstr "Cette feuille de présence n'a pas été envoyée"
+
+#: timeTotaler.php:3
+msgid "time calculator"
+msgstr "calculateur de temps"
+
+#: validation.php:35
+msgid ""
+"Invoice code not found. \n"
+" Please choose a valid invoice code from the list."
+msgstr ""
+"Code facture ne trouve pas.\n"
+"S'il vous plaît choisir un code de facture valide dans la liste."
+
+#: validation.php:43
+msgid ""
+"Project closed. \n"
+" You are not allowed to use this invoice code"
+msgstr ""
+"Projet fermé.\n"
+"Vous n'êtes pas autorisé à utiliser le code facture"
+
+#: validation.php:48
+msgid ""
+"Invoice code completed. \n"
+" Are you sure you want to use this invoice code?"
+msgstr ""
+"Projet fermé.\n"
+"Etes-vous sûr de vouloir utiliser ce code facture?"
+
+#: validation.php:71
+msgid ""
+"The N/A task code is not allowed for this invoice code.Please choose another!"
+msgstr ""
+"Le N/A code tâche n'est pas autorisée pour cette code facture. S'il vous "
+"plaît choisir une autre!"
+
+#: validation.php:75
+msgid "Empty task code not allowed for this invoice code!"
+msgstr "Code tâche vide pas autorisé pour ce code facture!"
+
+#: validation.php:86
+msgid ""
+"Task code not found. \n"
+" Please choose a valid task code from the list."
+msgstr ""
+"Code tâche ne trouve pas.\n"
+"S'il vous plaît choisir un code tâche de la liste."
+
+#: validation.php:91
+msgid ""
+"Your task code has not been found, but you are allowed to add a new one."
+msgstr ""
+"Votre code tâche n'a pas été trouvé, mais vous êtes autorisé à ajouter un "
+"nouveau."
+
+#: validation.php:111
+#, php-format
+msgid ""
+"The task code you selected is invalid for invoice code '%s'. \n"
+" Please choose a valid task code from the list."
+msgstr ""
+"Le code tâche que vous avez sélectionné n'est pas valide pour le code '%s'"
+
+#: content\archive_.php:67
+msgid "Display"
+msgstr "Affichage"
+
+#: content\archive_.php:69
+msgid "last 3 months"
+msgstr "Ces trois derniers mois"
+
+#: content\archive_.php:70
+msgid "this financial year"
+msgstr "année financière"
+
+#: content\archive_.php:71
+msgid "all the time sheets"
+msgstr "toutes les feuilles de présence"
+
+#: content\archive_.php:74 content\lieuAndHols_.php:107
+#: content\report_.php:166 content\submissionStatus_.php:6
+#: content\timesheetsBulk_.php:485 content\timeTotaler_.php:59
+msgid "Employee"
+msgstr "Employé"
+
+#: content\archive_.php:103
+msgid "You have 90 days to take TOIL after it was accrued."
+msgstr ""
+"Il vous reste 90 jours pour convertir en congés vos heures supplémentaires "
+"non payées"
+
+#: content\archive_.php:104
+msgid "These figures <b>are official</b>"
+msgstr "Ces données ne sont pas officielles"
+
+#: content\archive_.php:105
+msgid ""
+"If you think they're not accurate, please report it to the Administration "
+"Department"
+msgstr "Si ces données vous semblent erronnées, contactez l'administration"
+
+#: content\archive_.php:137 content\archive_.php:170
+msgid "TOIL accrued (hours)"
+msgstr "Total des heures supplémentaires converties et utilsées en congés"
+
+#: content\archive_.php:138 content\archive_.php:171
+msgid "Take by"
+msgstr "Prenez-le par"
+
+#: content\archive_.php:154 content\archive_.php:178
+msgid "adjustment"
+msgstr "ajustement"
+
+#: content\archive_.php:185
+msgid "Debt"
+msgstr "Dette"
+
+#: content\archive_.php:196
+msgid "TOIL Adjustment"
+msgstr "Ajustement des Toil"
+
+#: content\archive_.php:205
+msgid "Total TOIL"
+msgstr "Total des heures sup. converties en congés"
+
+#: content\archive_.php:208 content\archive_.php:249
+msgid "hours"
+msgstr "heures"
+
+#: content\archive_.php:218
+msgid ""
+"If you think the TOIL figures shown above are erroneous, press the "
+"\"recalculate\" button."
+msgstr ""
+"S'il vous semble que les données relatives aux heures sup. converties en "
+"congés sont erronnées, cliquez sur \"recalculer\""
+
+#: content\archive_.php:219
+msgid ""
+"All the submitted time sheets after the chosen date will have their TOIL and "
+"Lieu reprocessed."
+msgstr ""
+"Toute feuille de présence soumise après la date fixée entrainera un "
+"ajustement des heures sup. et des heures sup. converties en congés"
+
+#: content\archive_.php:220
+msgid "Please note taht the TOIL adjustment will not be altered!"
+msgstr "Attention,  l'ajustement des TOIL ne sera pas modifié !"
+
+#: content\archive_.php:231
+msgid "Completed!"
+msgstr "Terminé !"
+
+#: content\archive_.php:245
+msgid ""
+"Total Holidays taken during this financial year (including adjustment)"
+msgstr "Total des congés pris au cours de cette année financière"
+
+#: content\archive_.php:250
+msgid "days, based on 7.5 work hours a day"
+msgstr "jours, basés sur 7,5 heures de travail par jour"
+
+#: content\archive_.php:276 content\submissionStatus_.php:170
+#: content\timesheetNew_.php:119 content\timesheetsBulk_.php:361
+msgid "Week"
+msgstr "Semaine"
+
+#: content\archive_.php:277 content\report_.php:168
+#: content\timesheetsBulk_.php:400
+msgid "Hours"
+msgstr "Heures"
+
+#: content\archive_.php:278 content\submissionStatus_.php:8
+msgid "Lieu OT"
+msgstr "Lieu OT"
+
+#: content\archive_.php:279 content\submissionStatus_.php:9
+msgid "Charged OT"
+msgstr "heures sup. rémunérées"
+
+#: content\archive_.php:280 content\submissionStatus_.php:12
+msgid "TOIL"
+msgstr "heures sup. converties en congés"
+
+#: content\archive_.php:281
+msgid "Hols"
+msgstr "congés"
+
+#: content\archive_.php:323 content\report_.php:206
+#: content\timesheetList_.php:134 content\timesheetList_.php:215
+msgid "view"
+msgstr "voir"
+
+#: content\archive_.php:330
+msgid "TOTALS (hours)"
+msgstr "TOTAUX (heures)"
+
+#: content\archive_.php:342 content\submissionStatus_.php:327
+msgid "no time sheets"
+msgstr "pas de feuilles de présence"
+
+#: content\employees_.php:10
+msgid "Sort by"
+msgstr "Trier par"
+
+#: content\employees_.php:11
+msgid "choose the value to sort by"
+msgstr "choisir un critère de tri"
+
+#: content\employees_.php:12 content\employees_.php:13
+#: content\employees_.php:14
+msgid "last name"
+msgstr "nom de famille"
+
+#: content\employees_.php:12 content\employees_.php:13
+#: content\employees_.php:15
+msgid "first name"
+msgstr "prénom"
+
+#: content\employees_.php:17
+msgid "choose the sorting order"
+msgstr "choisir l'ordre du tri"
+
+#: content\employees_.php:18
+msgid "ascending"
+msgstr "ascendant"
+
+#: content\employees_.php:19
+msgid "descending"
+msgstr "descendant"
+
+#: content\employees_.php:25
+msgid "Search"
+msgstr "Chercher"
+
+#: content\employees_.php:25
+msgid "type a name here to search for an employee"
+msgstr "saisir ici le nom de l'employé recherché"
+
+#: content\employees_.php:34 content\lieuAndHols_.php:64
+#: content\submissionStatus_.php:177
+msgid "Cost centre"
+msgstr "centralisation des coûts"
+
+#: content\employees_.php:55
+msgid "Show unemployed"
+msgstr "Voir sans emploi"
+
+#: content\employees_.php:55
+msgid "check this to include the unemplyed staff"
+msgstr "Cochez cette case pour inclure le personnel ne travaille pas"
+
+#: content\employees_.php:59
+msgid "First name"
+msgstr "Prénom"
+
+#: content\employees_.php:60
+msgid "Last name"
+msgstr "Nom de famille"
+
+#: content\employees_.php:70
+msgid "click on an employee in the list to see their details"
+msgstr ""
+"Pour visulaiser les données d'un employé, cliquez sur son nom dans la "
+"présente liste"
+
+#: content\employees_.php:75
+msgid "First Name"
+msgstr "Prénom"
+
+#: content\employees_.php:82
+msgid "Last Name"
+msgstr "Nom de famille"
+
+#: content\employees_.php:88
+msgid "User Name"
+msgstr "Nom d'utilisateur"
+
+#: content\employees_.php:94
+msgid "E-mail"
+msgstr "E-Mail"
+
+#: content\employees_.php:100
+msgid "Line Manager"
+msgstr "Supérieur hiérarchique"
+
+#: content\employees_.php:106
+msgid "Minimum Hours"
+msgstr "Minimum d'heures"
+
+#: content\employees_.php:112
+msgid "Employed"
+msgstr "Employé"
+
+#: content\employees_.php:118
+msgid "Variable hours"
+msgstr "Horaires variables"
+
+#: content\employees_.php:124 content\lieuAndHols_.php:110
+msgid "TOIL adjustment"
+msgstr "Ajustement des TOIL"
+
+#: content\employees_.php:130
+msgid "TOIL adjustment<br/>commencing date"
+msgstr "Date de début relative<br/> à l'ajustement des TOIL"
+
+#: content\employees_.php:137
+msgid "TOIL Adjustment comment"
+msgstr "Commentaires sur l'ajustement des TOIL"
+
+#: content\employees_.php:137
+msgid "required for TOIL adjustment changes"
+msgstr "obligatoire pur modification des TOIL"
+
+#: content\employees_.php:143
+msgid "HOLS adjustment (hours)"
+msgstr "Ajustement des congés"
+
+#: content\employees_.php:149
+msgid "HOLS Adjustment comment"
+msgstr "Commentaires sur l'ajustement des congés"
+
+#: content\employees_.php:149
+msgid "required for HOLS adjustment changes"
+msgstr "Ajustement des congés obligatoire"
+
+#: content\employees_.php:155
+msgid "User Type"
+msgstr "Catégorie d'utilisateur"
+
+#: content\employees_.php:158
+msgid "normal"
+msgstr "standard"
+
+#: content\employees_.php:159
+msgid "administrator"
+msgstr "administrateur"
+
+#: content\employees_.php:164
+msgid "Authorizes Subordinates"
+msgstr "Autorise les subordonnés"
+
+#: content\employees_.php:170
+msgid "Authorizes Invoice Codes"
+msgstr "Authorizes les codes facture"
+
+#: content\employees_.php:176
+msgid "Enrolled"
+msgstr "Enrollé"
+
+#: content\employees_.php:188
+msgid "click to save this employee"
+msgstr "Cliquez pour sauvegarder les données relatives à cet employé"
+
+#: content\lieuAndHols_.php:45
+msgid "The financial year has changed on the"
+msgstr "L'année financière a débuté le :"
+
+#: content\lieuAndHols_.php:47
+msgid ""
+"NOTE1: TOIL available is <b>live</b> and contains the toil_adjustment value."
+msgstr ""
+"REMARQUE 1:heures sup. converties en congés disponibles est <b>en ligne</b> "
+"et contient la valeur de l'adjustement"
+
+#: content\lieuAndHols_.php:48
+msgid ""
+"NOTE2: The expired TOIL is calculated from the begining of the current "
+"financial year."
+msgstr ""
+"REMARQUE 2: le heures sup. converties en congés expiré est calculé à partir "
+"du début de l'exercice en cours."
+
+#: content\lieuAndHols_.php:49
+msgid ""
+"NOTE3: The holidays are calculated from the begining of this financial year."
+msgstr ""
+"REMARQUE 3: Les vacances sont calculées à partir du début de cette année "
+"financière."
+
+#: content\lieuAndHols_.php:50
+#, php-format
+msgid ""
+"NOTE4: The number of days of holidays are calculated by dividing the number "
+"of hours by %s."
+msgstr ""
+"REMARQUE 4: Le nombre de jours de congés sont calculés en divisant le nombre "
+"d'heures par %s."
+
+#: content\lieuAndHols_.php:108
+msgid "TOIL available"
+msgstr "TOIL disponible"
+
+#: content\lieuAndHols_.php:109
+msgid "TOIL expired"
+msgstr "TOIL expiré"
+
+#: content\lieuAndHols_.php:111
+msgid "Holidays taken (hours)"
+msgstr "Vacances prises (heures)"
+
+#: content\lieuAndHols_.php:112
+msgid "Holidays taken (days)"
+msgstr "Vacances prises (jours)"
+
+#: content\lieuAndHols_.php:113
+msgid "Holidays adjustment"
+msgstr "Ajustement de vacances"
+
+#: content\login_.php:13
+msgid "Please enter your login details"
+msgstr "S'il vous plaît entrer les coordonnées de votre connexion"
+
+#: content\login_.php:16
+msgid "Username"
+msgstr "Nom d’utilisateur"
+
+#: content\login_.php:22
+msgid "Password"
+msgstr "Mot de passe"
+
+#: content\login_.php:46
+msgid "Server is down, please try again later!"
+msgstr "Le serveur est hors-service, veuillez réessayer plus tard !"
+
+#: content\manageInvoice_.php:31
+msgid "Edit invoice code details"
+msgstr "Modifier les détails de code facture"
+
+#: content\manageInvoice_.php:38
+msgid "Project name"
+msgstr "Nom du projet"
+
+#: content\manageInvoice_.php:42
+msgid "Department"
+msgstr "Départment"
+
+#: content\manageInvoice_.php:65
+msgid "Task needed"
+msgstr "Code de tâche"
+
+#: content\manageInvoice_.php:69
+msgid "Requires authorization"
+msgstr "Nécessite autorisation"
+
+#: content\manageInvoice_.php:74
+msgid "Save details"
+msgstr "Enregistrer des détails"
+
+#: content\manageInvoice_.php:87
+msgid "add new"
+msgstr "ajouter nouveau"
+
+#: content\manageInvoice_.php:88 content\manageInvoice_.php:110
+msgid "cancel"
+msgstr "annuler"
+
+#: content\manageInvoice_.php:92 content\manageInvoice_.php:114
+msgid "Task name"
+msgstr "Nom de tâche"
+
+#: content\manageInvoice_.php:99
+msgid "Related task code list"
+msgstr "Liste des codes tâche liée"
+
+#: content\manageInvoice_.php:107
+msgid "start typing a task code to see a list"
+msgstr "commencez à taper un code tâche pour voir la liste"
+
+#: content\manageInvoice_.php:109 content\timesheetList_.php:44
+msgid "edit"
+msgstr "éditer"
+
+#: content\report_.php:101 content\timeTotaler_.php:19
+msgid "Project"
+msgstr "Projet"
+
+#: content\report_.php:122
+msgid "Period"
+msgstr "Période"
+
+#: content\report_.php:124
+msgid "today"
+msgstr "aujourd'hui"
+
+#: content\report_.php:125
+msgid "yesterday"
+msgstr "hier"
+
+#: content\report_.php:128
+msgid "ever"
+msgstr "jamais"
+
+#: content\report_.php:140 content\report_.php:141
+msgid "Day report"
+msgstr "Rapport de la journée"
+
+#: content\report_.php:142 content\report_.php:143
+msgid "Week report"
+msgstr "Rapport de la semaine"
+
+#: content\report_.php:151
+msgid "Please enter invoice code."
+msgstr "S'il vous plaît entrez le code facture."
+
+#: content\report_.php:156
+msgid "Invoice code was not found in the database."
+msgstr "Code facture n'a pas été trouvé dans la base de données."
+
+#: content\submissionStatus_.php:7
+msgid "Hours<"
+msgstr "Heures"
+
+#: content\submissionStatus_.php:10
+msgid "Sunday OT"
+msgstr "Dimanche OT"
+
+#: content\submissionStatus_.php:11
+msgid "HOLS"
+msgstr "HOLS"
+
+#: content\submissionStatus_.php:13
+msgid "SICK"
+msgstr "SICK"
+
+#: content\submissionStatus_.php:14
+msgid "UNPAID"
+msgstr "UNPAID"
+
+#: content\submissionStatus_.php:15
+msgid "Submission time"
+msgstr "Temps de soumission"
+
+#: content\submissionStatus_.php:163
+msgid "Time sheet submission status"
+msgstr "État des feuilles de présence"
+
+#: content\submissionStatus_.php:164
+msgid "download as CSV"
+msgstr "Télécharger au format CSV"
+
+#: content\submissionStatus_.php:197
+msgid "Location"
+msgstr "Localisation"
+
+#: content\submissionStatus_.php:223
+msgid "no time sheets were submitted yet"
+msgstr "pas de feuilles de présence ont été soumis pour l'instant"
+
+#: content\submissionStatus_.php:225
+msgid "Submitted time sheets"
+msgstr "Feuilles de présence soumis"
+
+#: content\submissionStatus_.php:252
+msgid "Started but due time sheets"
+msgstr "Feuilles de présence commencé, mais pas fini"
+
+#: content\submissionStatus_.php:282
+msgid "Not started due time sheets"
+msgstr "Feuilles de présence non commencé"
+
+#: content\submissionStatus_.php:294
+msgid "remind"
+msgstr "rappel"
+
+#: content\submissionStatus_.php:295
+msgid "create"
+msgstr "Créer"
+
+#: content\submissionStatus_.php:305
+msgid "remind selected"
+msgstr "rappeler aux employés sélectionnés"
+
+#: content\submissionStatus_.php:312
+msgid "Due time sheets for this week"
+msgstr "Feuilles de présence requis pour cette semaine"
+
+#: content\submissionStatus_.php:315
+msgid "no due time sheets"
+msgstr "Pas des feuilles de présence"
+
+#: content\submissionStatus_.php:321
+msgid "Not enrolled people's time sheets"
+msgstr "Feuilles de présence pour les employés qui ne sont pas inscrits"
+
+#: content\timesheet_.php:53
+msgid "invoice code"
+msgstr "code facture"
+
+#: content\timesheet_.php:54
+msgid "project name"
+msgstr "nom du projet"
+
+#: content\timesheet_.php:55
+msgid "task code"
+msgstr "code tâche"
+
+#: content\timesheetList_.php:24
+msgid "Add a new time sheet"
+msgstr "Ajouter une nouvelle feuille de présence"
+
+#: content\timesheetList_.php:27
+msgid "Edit previous saved time sheets"
+msgstr "Modifier les feuilles de présence"
+
+#: content\timesheetList_.php:34
+msgid "no saved time sheets"
+msgstr "aucune feuille de présence sauvegardée"
+
+#: content\timesheetList_.php:45
+msgid "discard"
+msgstr "Abandon"
+
+#: content\timesheetList_.php:63
+msgid "Your managed invoice code list"
+msgstr "Votre liste de code facture"
+
+#: content\timesheetList_.php:80
+msgid "manage"
+msgstr "gérer"
+
+#: content\timesheetList_.php:81
+msgid "reports"
+msgstr "rapports"
+
+#: content\timesheetList_.php:111
+msgid "Time sheets of your subordinates"
+msgstr "Les feuilles de  présence de vos subordonnés"
+
+#: content\timesheetList_.php:141
+msgid "Download report as CSV"
+msgstr "Télécharger le rapport au format CSV"
+
+#: content\timesheetList_.php:183
+msgid "Authorize time sheets"
+msgstr "Autoriser les feuilles de présence"
+
+#: content\timesheetNew_.php:56
+msgid "Please enter these details about your timesheet"
+msgstr "Veuillez entrer ces détails à propos de votre feuille de présence."
+
+#: content\timesheetNew_.php:59
+msgid "Time interval"
+msgstr "Intervalle de temps"
+
+#: content\timesheetNew_.php:62 content\timesheetNew_.php:63
+#, php-format
+msgid "%s minutes"
+msgstr "%s minutes"
+
+#: content\timesheetNew_.php:68
+msgid "Usual day start hour"
+msgstr "Heure d’arrivée standard"
+
+#: content\timesheetNew_.php:89
+msgid "Usual day leave hour"
+msgstr "Heure de départ standard"
+
+#: content\timesheetNew_.php:113
+msgid "Show weekend days"
+msgstr "Voir week-end"
+
+#: content\timesheetNew_.php:158
+msgid "You already submitted a time sheet for that week"
+msgstr "Vous avez déjà présenté une feuille de présence pour cette semaine"
+
+#: content\timesheetNew_.php:161
+msgid "You have already started filling out your time sheet for this week."
+msgstr ""
+"Vous avez déjà commencé à remplir votre feuille de présence pour cette "
+"semaine."
+
+#: content\timesheetsBulk_.php:110
+msgid "No invoice code"
+msgstr "Pas de code facture"
+
+#: content\timesheetsBulk_.php:134
+msgid "This invoice code requires a task code"
+msgstr "Ce code facture nécessite un code tâche"
+
+#: content\timesheetsBulk_.php:149
+msgid ""
+"Task code could not be found or can not be associated with this invoice code"
+msgstr ""
+"Code tâche n'a pas pu être trouvé ou ne peut pas être associés à cette code "
+"facture"
+
+#: content\timesheetsBulk_.php:188
+msgid "The hours figure multiplied by 60 has to be dividable by "
+msgstr "Les heures chiffre multiplié par 60 doit être divisible par "
+
+#: content\timesheetsBulk_.php:188
+msgid "or"
+msgstr "ou"
+
+#: content\timesheetsBulk_.php:194
+msgid "Too many projects for one time sheet"
+msgstr "Trop de projets pour un feuille de présence"
+
+#: content\timesheetsBulk_.php:200
+msgid "Over time hours greater than the total"
+msgstr "Nombre d'heures supplémentaires supérieur au total"
+
+#: content\timesheetsBulk_.php:236
+msgid "This employee could not be found"
+msgstr "Cet(te) employé(e) n'a pu être trouvé(e)"
+
+#: content\timesheetsBulk_.php:241
+msgid "This employee is not employed any more"
+msgstr "Cet(te) employé(e) ne travaille plus chez nous"
+
+#: content\timesheetsBulk_.php:252
+#, php-format
+msgid ""
+"This employee has a different value for minimum hours (%s) then the rest (%s)"
+msgstr ""
+"Cet employé a une valeur différente pour heures minimum (%s), puis le reste "
+"(%s)"
+
+#: content\timesheetsBulk_.php:258
+msgid "This employee already has a time sheet for the selected week: "
+msgstr ""
+"Cet employé a déjà une feuille de présence pour la semaine sélectionnée: "
+
+#: content\timesheetsBulk_.php:265
+msgid "No employees selected"
+msgstr "Aucun employé séléctionné !"
+
+#: content\timesheetsBulk_.php:271
+#, php-format
+msgid ""
+"The specified number of hours is %s less than the minimum allowed for "
+"employees"
+msgstr ""
+"Le nombre d'heures est  inférieur par %s au minimum autorisé pour les "
+"employés"
+
+#: content\timesheetsBulk_.php:277
+#, php-format
+msgid "%s more hours of lieu over time are required"
+msgstr "%s heures et plus de place au fil du temps sont nécessaires"
+
+#: content\timesheetsBulk_.php:281
+#, php-format
+msgid "Too much over time declared: %s"
+msgstr "Trop de temps et plus avaient déclaré: %s"
+
+#: content\timesheetsBulk_.php:341 content\timesheetsBulk_.php:344
+msgid "Time sheet"
+msgstr "Feuille de présence"
+
+#: content\timesheetsBulk_.php:341
+msgid ""
+"created but not submitted because of some toil issues. Please revise it."
+msgstr ""
+"créées mais non soumises en raison de certains problèmes de heures sup. "
+"converties en congés . Veuillez modifier vos saisies."
+
+#: content\timesheetsBulk_.php:344
+msgid "successfully created"
+msgstr "créé avec succès"
+
+#: content\timesheetsBulk_.php:351
+msgid ""
+"This section allows administrators to add time sheets for many employees at "
+"the same time."
+msgstr ""
+"Cette section permet aux administrateurs d'allouer en une seule fois des "
+"feuilles de présence à plusieurs salariés."
+
+#: content\timesheetsBulk_.php:357
+msgid "Choose a week"
+msgstr "Choisissez une semaine"
+
+#: content\timesheetsBulk_.php:373
+msgid "Enter hours for each day"
+msgstr "Saisissez les heures pour chaque jour"
+
+#: content\timesheetsBulk_.php:379
+msgid "Choose the projects and task codes"
+msgstr "Choisir les projets et le code tâche"
+
+#: content\timesheetsBulk_.php:381
+msgid ""
+"If you choose to enter only the total hours for each project, they will be "
+"distributed evenly accross days from Monday to Friday."
+msgstr ""
+"Si vous saisissez  le total des heures pour chaque projet, elles seront "
+"automatiquement réparties sur tous les jours de la semaine"
+
+#: content\timesheetsBulk_.php:383
+msgid "The over time amount(OT) is part of the total hours(Hours)."
+msgstr ""
+"Le montant au fil du temps (OT) fait partie du nombre total d'heures "
+"(heures)."
+
+#: content\timesheetsBulk_.php:406
+msgid "Sun"
+msgstr "Dim"
+
+#: content\timesheetsBulk_.php:409
+msgid "Mon"
+msgstr "Lun"
+
+#: content\timesheetsBulk_.php:412
+msgid "Tue"
+msgstr "Mar"
+
+#: content\timesheetsBulk_.php:415
+msgid "Wed"
+msgstr "Mer"
+
+#: content\timesheetsBulk_.php:418
+msgid "Thu"
+msgstr "Jeu"
+
+#: content\timesheetsBulk_.php:424
+msgid "OT"
+msgstr "OT"
+
+#: content\timesheetsBulk_.php:432
+msgid "Add another project"
+msgstr "Ajouter un autre projet"
+
+#: content\timesheetsBulk_.php:434
+msgid "Total hours"
+msgstr "Total d'heures"
+
+#: content\timesheetsBulk_.php:480
+msgid "Choose the employees"
+msgstr "Choisissez les employés"
+
+#: content\timesheetsBulk_.php:493
+msgid "Add another employee"
+msgstr "Ajouter un autre employé"
+
+#: content\timesheetsBulk_.php:498
+msgid "Create time sheets"
+msgstr "Créer des feuilles de présence"
+
+#: content\timeTotaler_.php:11
+msgid ""
+"This section gives a time total spent on a specific project by a specific "
+"employee"
+msgstr ""
+"Cette section indique le temps total qu'un employé a consacré à  un projet "
+"spécifique"
+
+#: content\timeTotaler_.php:13
+msgid "This section gives you a time total spent on a specific project"
+msgstr "Cette section indique le temps pris par un projet"
+
+#: content\timeTotaler_.php:22
+msgid "Invoice Code"
+msgstr "Code de facture"
+
+#: content\timeTotaler_.php:24 content\timeTotaler_.php:32
+msgid "type the invoice code or choose it from the list"
+msgstr "tapez le code facture ou le choisir dans la liste"
+
+#: content\timeTotaler_.php:25
+msgid "check to view time for a specific invoice code"
+msgstr ""
+"cochez cette case pour voir le temps passé sur une spécifique code de facture"
+
+#: content\timeTotaler_.php:26
+msgid "check this to see only time spent on a specific invoice code"
+msgstr ""
+"Cochez cette case pour visualiser le temps passé sur un travail effectué"
+
+#: content\timeTotaler_.php:30
+msgid "Task Code"
+msgstr "Code de tâche"
+
+#: content\timeTotaler_.php:33
+msgid "check to view time for a specific task code"
+msgstr ""
+"cochez cette case pour voir le temps passé sur un spécifique code de tâche"
+
+#: content\timeTotaler_.php:34
+msgid "check this to see only time spent on a specific task code"
+msgstr ""
+"Cochez cette case pour visualiser le temps passé sur un travail effectué"
+
+#: content\timeTotaler_.php:38
+msgid "Date range"
+msgstr "Période"
+
+#: content\timeTotaler_.php:41
+msgid "Date start"
+msgstr "Date de début"
+
+#: content\timeTotaler_.php:48
+msgid "Date end"
+msgstr "Date de fin"
+
+#: content\timeTotaler_.php:62
+msgid "Show self time"
+msgstr "Voir propre temps"
+
+#: content\timeTotaler_.php:64
+msgid "check to view time spent only by yourself"
+msgstr "vérifier pour voir le temps passé que par vous-même"
+
+#: content\timeTotaler_.php:65
+msgid "check this to see only time spent by yourself"
+msgstr "Cochez cette case pour contrôler le temps que vous avez pris"
+
+#: content\timeTotaler_.php:69
+msgid "Employee name"
+msgstr "Nom de l'employé"
+
+#: content\timeTotaler_.php:71
+msgid "type the employee name or choose it from the list"
+msgstr "tapez le nom de l'employé ou le choisir dans la liste"
+
+#: content\timeTotaler_.php:73
+msgid "check to view time only for a specific employee"
+msgstr "vérifier pour voir le temps que pour un employé en particulier"
+
+#: content\timeTotaler_.php:74
+msgid "check this to see time spent by a specific employee"
+msgstr "Cochez cette case pour visualiser le planning d'un employé"
+
+#: content\timeTotaler_.php:83
+msgid "hours&nbsp;total"
+msgstr "total&nbsp;d'heures"
+
+#: content\timeTotaler_.php:86
+msgid "update"
+msgstr "Mettre à jour"
+
+#: classes\Template.php:19
+msgid "Time Recording System"
+msgstr "Système d'enregistrement  des heures de travail"
+
+#: classes\Template.php:69
+msgid "You are logged in as"
+msgstr "Vous êtes connecté en tant que"
+
+#: classes\Template.php:70
+msgid "Logout"
+msgstr "Se déconnecter"
+
+#: classes\Template.php:80
+msgid "Copyright (C)"
+msgstr "Copyright (C)"
+
+#: classes\Template.php:81
+#, php-format
+msgid "developed in accordance with the %s Open Archaeology philosophy"
+msgstr "élaboré conformément à la %s Open Archéologie philosophie"
+
+#: classes\Template.php:82
+#, php-format
+msgid "Under the %s license auspices."
+msgstr "En vertu de la licence %s auspices."
+
+#: classes\TimeSheetCredentials.php:63
+msgid "this time sheet has been submitted"
+msgstr "cette feuille de présence a été soumis"
+
+#: classes\TimeSheetCredentials.php:73
+msgid ""
+"newer submitted time sheet(s) prevent you from editing this time sheet"
+msgstr ""
+"plus récente feuille(s) de présence soumise(s) vous empêcher de montage "
+"fiche cette fois"
+
+#, php-format
+#~ msgid "This time sheet belongs to <span class=\"name\">%s</span>."
+#~ msgstr ""
+#~ "Cette feuille de présence appartient à <span class=\"name\">%s</span>."
+
+#~ msgid "Admin Menu Items"
+#~ msgstr "Éléments du menu Administrateur"
+
+#~ msgid "Default Menu"
+#~ msgstr "Menu par défaut"
+
+#~ msgid "Tools Menu Items"
+#~ msgstr "Éléments du menu Outils"
+
+#~ msgid "Sorry, your session has expired"
+#~ msgstr "Désolé, votre session a expirée."
+
+#~ msgid "15 minutes"
+#~ msgstr "15 minutes"
+
+#~ msgid "10 minutes"
+#~ msgstr "10 minutes"
+
+#~ msgid "What would you like to do?"
+#~ msgstr "Que voulez-vous faire ?"
+
+#~ msgid "request unrecognised"
+#~ msgstr "requête non reconnue"
+
+#~ msgid "are"
+#~ msgstr "sont"
+
+#~ msgid "official"
+#~ msgstr "officiels"
+
+#~ msgid "Feb"
+#~ msgstr "fév"
+
+#~ msgid "Jan"
+#~ msgstr "Jan"
+
+#~ msgid "May"
+#~ msgstr "mai"
+
+#~ msgid "Apr"
+#~ msgstr "avr"
+
+#~ msgid "no"
+#~ msgstr "non"
+
+#~ msgid "Oct"
+#~ msgstr "Oct"
+
+#~ msgid "Nov"
+#~ msgstr "Nov"
+
+#~ msgid "yes"
+#~ msgstr "oui"
+
+#~ msgid "continue"
+#~ msgstr "continuer"
+
+#~ msgid "Language"
+#~ msgstr "Langue"
+
+#~ msgid ""
+#~ "Please adjust the amount of TOIL or talk to the Administration Department."
+#~ msgstr ""
+#~ "Rectifiez le nombre de vos heures récupérées ou contactez l'administration"
+
+#~ msgid "submitted"
+#~ msgstr "envoyé"
+
+#~ msgid "Press this button to modify this entry"
+#~ msgstr "Si vous souhaitez modifier cette entrée, cliquez sur ce bouton"
+
+#~ msgid "press here to select/deselect the entire table"
+#~ msgstr "Cliquez ici pour sélectionner/désélectionner l'ensemble du tableau"
+
+#~ msgid "press here to add weekend days to this timesheet"
+#~ msgstr "Cliquez ici pour ajouter des heures effectuées pendant les week-ends"
+
+#~ msgid "Dec"
+#~ msgstr "déc"
+
+#~ msgid "Mar"
+#~ msgstr "Mars"
+
+#~ msgid "Jun"
+#~ msgstr "juin"
+
+#~ msgid "Jul"
+#~ msgstr "juil"
+
+#~ msgid "Aug"
+#~ msgstr "août"
+
+#~ msgid "Sep"
+#~ msgstr "sept"
+
+#~ msgid "saving details"
+#~ msgstr "sauvegarder les données"
+
+#~ msgid "Show own time"
+#~ msgstr "visualiser son propre planning"
+
+#, python-format
+#~ msgid "Reminder sent successfully to %s recipient(s)"
+#~ msgstr "Rappel envoyé avec succès à %s bénéficiaire(s)"
+
+#, python-format
+#~ msgid ""
+#~ "Reminder sent successfully to %s recipient(s), but failed on %s recipient(s)"
+#~ msgstr ""
+#~ "Rappel envoyé avec succès à %s bénéficiaire(s), mais a échoué sur %s "
+#~ "bénéficiaire (s)"
+
+#, python-format
+#~ msgid "Reminder failed for all %s recipient(s)"
+#~ msgstr "Rappel pas pour tous %s bénéficiaire(s)"
+
+#~ msgid "This time sheet has more overtime hour(s) than it should:"
+#~ msgstr ""
+#~ "Cette feuille de présence a plus d'heures supplémentaires que ce qu'elle "
+#~ "devrait:"
+
+#~ msgid "Are you sure you want to continue?"
+#~ msgstr "Êtes vous sur de vouloir continuer ?"
+
+#, python-format
+#~ msgid ""
+#~ "You need to put at least %s hours to TOIL. You're trying to declare only %s "
+#~ "hours"
+#~ msgstr ""
+#~ "Vous devez mettre au moins %s heures de TOIL. Vous essayez de ne déclarer "
+#~ "que %s heures"
+
+#, python-format
+#~ msgid ""
+#~ "You need to put at least %s hours to HOL. You're trying to declare only %s "
+#~ "hours"
+#~ msgstr ""
+#~ "Vous devez mettre au moins %s heures de HOL. Vous essayez de ne déclarer que "
+#~ "%s heures"
+
+#, python-format
+#~ msgid ""
+#~ "You declared %s hours more TOIL on your time sheet than the total amount you "
+#~ "have available.\n"
+#~ " "
+#~ msgstr ""
+#~ "Ah ah ! vous essayez de prendre %s plus de TOIL (heures de récup) que vous "
+#~ "n'en disposez !\n"
+#~ " "
+
+#, python-format
+#~ msgid "This time sheet has %s undeclared hour(s) of overtime!"
+#~ msgstr ""
+#~ "Cette feuille de présence a %s non déclaré heure(s) des heures "
+#~ "supplémentaires!"
+
+#~ msgid "ERROR: You declared more overtime hour(s) than you worked: "
+#~ msgstr ""
+#~ "ERREUR: Vous avez déclaré plus d'heures supplémentaires que vous avez "
+#~ "travaillé: "
+
+#~ msgid "You have undeclared hour(s) of overtime: !"
+#~ msgstr "Tu a non déclaré heure(s) des heures supplémentaires:"
+
+#~ msgid ""
+#~ "Once you submit the timesheet details you can NOT modify them any further.\n"
+#~ " Are you sure you want to continue?"
+#~ msgstr ""
+#~ "Une fois que vous soumettez les détails de feuille de présence, vous NE "
+#~ "pouvez pas modifier leur plus loin.\n"
+#~ "Etes-vous sûr de vouloir continuer?"
+
+#~ msgid "Please note that the TOIL adjustment will not be altered!"
+#~ msgstr ""
+#~ "S'il vous plaît noter que la heures sup. converties en congés correction ne "
+#~ "sera pas modifiée!"
