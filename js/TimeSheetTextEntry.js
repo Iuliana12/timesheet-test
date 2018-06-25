@@ -497,7 +497,6 @@ function TimeSheetTextEntry(){
 		tdDiv.addEventListener("mouseout",TimeSheet.activeInstance.textEntry.onColourOut,false);
 		tdDiv.appendChild(tdNote);
 		tdDiv.appendChild(tdImage);
-		console.log(tdDiv);
 		var tdButtons= document.createElement("td");
 		if(!TimeSheet.activeInstance.viewing)
 		{
